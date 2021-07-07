@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podlove="http://podlove.org/simple-chapters/">
+  <channel>
+    <title>Broadwaves</title>
+    <description>Broadwaves is a podcast dedicated to finding great stuff to watch on TV and elsewhere - from the people who brought you “The Signal”.
+
+We aim to produce one 60-minute episode each month, in which we talk about, recommend, and analyse shows that you might not otherwise have heard of, are fun, and are available to watch (and our definition of “show” is quite broad - we include TV, movies, radio, books, etc.)
+</description>
+    <link>http://broadwaves.org/</link>
+    <atom:link href="http://broadwaves.org/rss/" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <pubDate>Tue, 6 Nov 2018 00:00:00 +0000</pubDate>
+    <ttl>240</ttl>
+    <image>
+      <url>http://broadwaves.org/img/feed-image.png</url>
+      <title>Broadwaves</title>
+      <link>http://broadwaves.org/</link>
+    </image>
+    <itunes:author>Andy King, Craig Kurumada, Jill Arroway, Jutta Jordans, Kevin Bachelder, Miranda Thomas, Nick Edwards, Paul Korswagen</itunes:author>
+    <itunes:owner>
+      <itunes:name>The Broadwaves Crew</itunes:name>
+      <itunes:email>feedback@broadwaves.org</itunes:email>
+    </itunes:owner>
+    <itunes:summary>Broadwaves is a podcast dedicated to finding great stuff to watch on TV and elsewhere - from the people who brought you “The Signal”.
+
+We aim to produce one 60-minute episode each month, in which we talk about, recommend, and analyse shows that you might not otherwise have heard of, are fun, and are available to watch (and our definition of “show” is quite broad - we include TV, movies, radio, books, etc.)
+</itunes:summary>
+    <itunes:image href="http://broadwaves.org/img/feed-image.png" />
+    <itunes:category text="TV &amp; Film" />
+    <itunes:explicit>yes</itunes:explicit>
+    <item>
+      <title>Lord of the Rings (BBC radio version)</title>
+      <itunes:summary>In this episode, we discuss the BBC audio version of Lord of the Rings, and chat about Sense8.</itunes:summary>
+      <content:encoded><![CDATA[<p>We've all heard of <strong>Lord of the Rings</strong>. There have been many versions: the books, the movies... But this episode of <strong>Broadwaves</strong> is about the BBC radio adaptation. Nick Edwards tells us why he loves this version so much..</p>
+<p>Additionally, now that the finale of Sense8 has aired, we took this opportunity to discuss it. There will be spoilers! Join in the discussion.</p>
+<p>Music used in this episode:</p>
+<ul>
+<li>Broadwaves theme tune<ul>
+<li>&quot;Tishiana Girls&quot; by Great Big Sea</li>
+</ul>
+</li>
+<li>SAGA segment<ul>
+<li><a href="https://purpleplanet.com" target="_blank">Purple Planet</a></li>
+</ul>
+</li>
+</ul>
+]]></content:encoded>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>http://broadwaves.org/rss/episodes/bw20181106-lotr-sense8.html</link>
+      <comments>http://signal.mirandathomas.com</comments>
+      <guid isPermaLink="false">lotr-sense8#1</guid>
+      <pubDate>Tue, 6 Nov 2018 00:00:00 +0000</pubDate>
+      <itunes:image href="http://broadwaves.org/img/episodes/lotr-sense8/image.png"/>
+      <podlove:chapters version="1.1">
+        <podlove:chapter start="0:01" title="Broadwaves opening theme"/>
+        <podlove:chapter start="0:33" title="Discussion"/>
+        <podlove:chapter start="8:46" title="Feedback contact information"/>
+        <podlove:chapter start="10:10" title="Discussion"/>
+        <podlove:chapter start="10:21" title="Feature: Lord of the Rings, part 1"/>
+        <podlove:chapter start="28:01" title="Discussion"/>
+        <podlove:chapter start="28:28" title="Feature: Buffy's Back"/>
+        <podlove:chapter start="38:36" title="Discussion"/>
+        <podlove:chapter start="41:48" title="Feature: Lord of the Rings, part 2"/>
+        <podlove:chapter start="53:53" title="Lord of the Rings Theme"/>
+        <podlove:chapter start="56:02" title="Discussion"/>
+        <podlove:chapter start="58:06" title="Comic Smörgåsbord: Saga, by Brian K. Vaughan and Fiona Staples"/>
+        <podlove:chapter start="1:08:15" title="Discussion"/>
+        <podlove:chapter start="1:10:20" title="Broadwaves Crew Chat: Sense8"/>
+        <podlove:chapter start="1:51:48" title="Discussion"/>
+        <podlove:chapter start="1:53:29" title="Broadwaves closing theme"/>
+      </podlove:chapters>
+      <itunes:duration>1:53:28.426</itunes:duration>
+      <enclosure url="../tcsa/Broadwaves+Podcast/broadwaves_lotr_sense8.mp3" length="102606693" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Firefly: As Long as I'm Flyin'</title>
+      <itunes:summary>In this episode, we talk with Marc Gunn about his latest Firefly album, &quot;As Long As I'm Flyin'&quot;</itunes:summary>
+      <content:encoded><![CDATA[<p>In this episode of <strong>Broadwaves</strong>, we talk with Marc Gunn about his latest Firefly album, &quot;As Long As I'm Flyin'&quot;.</p>
+<p>Music used in this episode:</p>
+<ul>
+<li>Broadwaves theme tune<ul>
+<li>&quot;Tishiana Girls&quot; by Great Big Sea</li>
+</ul>
+</li>
+<li>From &quot;As Long As I'm Flyin'&quot;<ul>
+<li>&quot;She's Shiny&quot; by Marc Gunn</li>
+</ul>
+</li>
+</ul>
+]]></content:encoded>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>http://broadwaves.org/rss/episodes/bw20180220-firefly-alaif.html</link>
+      <comments>http://signal.mirandathomas.com</comments>
+      <guid isPermaLink="false">firefly-alaif#1</guid>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
+      <itunes:image href="http://broadwaves.org/img/episodes/firefly-alaif/image.png"/>
+      <podlove:chapters version="1.1">
+        <podlove:chapter start="0:01" title="Broadwaves opening theme"/>
+        <podlove:chapter start="0:33" title="Chat"/>
+        <podlove:chapter start="1:27" title="Marc Gunn"/>
+        <podlove:chapter start="23:33" title="Chat"/>
+        <podlove:chapter start="24:21" title="Broadwaves closing theme"/>
+      </podlove:chapters>
+      <itunes:duration>32:55.485</itunes:duration>
+      <enclosure url="../tcsa/Broadwaves+Podcast/broadwaves_firefly_alaif.mp3" length="38919213" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Orange (B)</title>
+      <itunes:summary>In this episode, we discuss Orange, available on Funimation (dubbed) and CrunchyRoll (subtitled).</itunes:summary>
+      <content:encoded><![CDATA[<p><strong>Orange</strong> is an anime, a manga, and a live action movie, about a 16-year old girl, Naho, who begins to receive letters from her 26-year old future self. The letters instruct her to change the future, to prevent the death of someone important to her, a boy name Kukiru.</p>
+<p>But it's not as easy as it sounds. Future-Naho only knows what went wrong, not how to do it right, and the more present-Naho changes things, the less useful the letters become. She's going to have to rely on her wits, and her friends, and her love, and most importantly, she's going to have to need courage.</p>
+<p>In this episode of <strong>Broadwaves</strong>, we dive deeper, and discuss what our crew thought of this show. There will be spoilers! Join in the discussion.</p>
+<p>Where to find Orange:</p>
+<ul>
+<li><a href="https://www.crunchyroll.com/orange" target="_blank">Crunchyroll</a> (dubbed)</li>
+<li><a href="https://www.funimationnow.uk/shows/orange/" target="_blank">Funimation</a> (subtitled)</li>
+</ul>
+<p>Music used in this episode:</p>
+<ul>
+<li>Broadwaves theme tune<ul>
+<li>&quot;Tishiana Girls&quot; by Great Big Sea</li>
+</ul>
+</li>
+</ul>
+]]></content:encoded>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>http://broadwaves.org/rss/episodes/bw20171009-orange-p2.html</link>
+      <comments>http://signal.mirandathomas.com/archives/21674</comments>
+      <guid isPermaLink="false">orange-p2#1</guid>
+      <pubDate>Mon, 9 Oct 2017 00:00:00 +0000</pubDate>
+      <itunes:image href="http://broadwaves.org/img/episodes/orange-p2/image.png"/>
+      <podlove:chapters version="1.1">
+        <podlove:chapter start="0:01" title="Broadwaves opening theme"/>
+        <podlove:chapter start="0:33" title="Discussion"/>
+        <podlove:chapter start="6:02" title="Broadwaves Crew Chat"/>
+        <podlove:chapter start="31:19" title="Discussion"/>
+        <podlove:chapter start="34:02" title="Comic Smörgåsbord: Preacher by Garth Ennis and Steve Dillon"/>
+        <podlove:chapter start="40:16" title="Discussion"/>
+        <podlove:chapter start="40:57" title="Broadwaves Crew Chat"/>
+        <podlove:chapter start="1:04:27" title="Discussion"/>
+        <podlove:chapter start="1:09:19" title="Broadwaves closing theme"/>
+      </podlove:chapters>
+      <itunes:duration>1:09:39.384</itunes:duration>
+      <enclosure url="../tcsa/Broadwaves+Podcast/broadwaves_orange_02.mp3" length="67115159" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Orange (A)</title>
+      <itunes:summary>In this episode, we introduce you to Orange, available on Funimation (dubbed) and CrunchyRoll (subtitled).</itunes:summary>
+      <content:encoded><![CDATA[<p><strong>Orange</strong> is an anime, a manga, and a live action movie, about a 16-year old girl, Naho, who begins to receive letters from her 26-year old future self. The letters instruct her to change the future, to prevent the death of someone important to her, a boy name Kukiru.</p>
+<p>But it's not as easy as it sounds. Future-Naho only knows what went wrong, not how to do it right, and the more present-Naho changes things, the less useful the letters become. She's going to have to rely on her wits, and her friends, and her love, and most importantly, she's going to have to need courage.</p>
+<p>In this episode of <strong>Broadwaves</strong>, we introduce you to Orange, and  we do it without giving away any major spoilers - because if you haven't seen it yet, we want you to watch it.</p>
+<p>Where to find Orange:</p>
+<ul>
+<li><a href="https://www.crunchyroll.com/orange" target="_blank">Crunchyroll</a> (dubbed)</li>
+<li><a href="https://www.funimationnow.uk/shows/orange/" target="_blank">Funimation</a> (subtitled)</li>
+</ul>
+<p>Music used in this episode:</p>
+<ul>
+<li>Broadwaves theme tune<ul>
+<li>&quot;Tishiana Girls&quot; by Great Big Sea</li>
+</ul>
+</li>
+<li>Orange theme tunes<ul>
+<li>&quot;Hikari no Haben&quot; by Yu Takahashi</li>
+<li>&quot;Mirai&quot; by Kobukuru</li>
+</ul>
+</li>
+</ul>
+]]></content:encoded>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>http://broadwaves.org/rss/episodes/bw20170828-orange-p1.html</link>
+      <comments>http://signal.mirandathomas.com/archives/21674</comments>
+      <guid isPermaLink="false">orange-p1#1</guid>
+      <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
+      <itunes:image href="http://broadwaves.org/img/episodes/orange-p1/image.png"/>
+      <podlove:chapters version="1.1">
+        <podlove:chapter start="0:01" title="Broadwaves opening theme"/>
+        <podlove:chapter start="0:33" title="Discussion"/>
+        <podlove:chapter start="5:10" title="The Truth of the Signal"/>
+        <podlove:chapter start="14:31" title="Discussion"/>
+        <podlove:chapter start="15:37" title="Orange opening theme"/>
+        <podlove:chapter start="19:45" title="Discussion"/>
+        <podlove:chapter start="21:22" title="Feature: Manga vs Comics vs Webtoons"/>
+        <podlove:chapter start="26:48" title="Discussion"/>
+        <podlove:chapter start="31:00" title="Feedback"/>
+        <podlove:chapter start="34:07" title="Discussion"/>
+        <podlove:chapter start="34:19" title="Feature: If I had known then what I know now"/>
+        <podlove:chapter start="47:22" title="Discussion"/>
+        <podlove:chapter start="48:04" title="Orange closing theme"/>
+        <podlove:chapter start="53:13" title="Discussion"/>
+        <podlove:chapter start="56:06" title="Broadwaves closing theme"/>
+      </podlove:chapters>
+      <itunes:duration>56:26.829</itunes:duration>
+      <enclosure url="../tcsa/Broadwaves+Podcast/broadwaves_orange_01.mp3" length="76871096" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Batman: Knightfall (B)</title>
+      <itunes:summary>In this episode, we discuss the BBC audio drama, Batman: Knightfall.</itunes:summary>
+      <content:encoded><![CDATA[<p><strong>Batman: Knightfall</strong> is a three-hour audio drama made by the BBC, based on the Batman comics.</p>
+<p>In this episode of <strong>Broadwaves</strong>, we dive deeper, and discuss what our crew thought of this show. There will be spoilers! Join in the discussion.</p>
+<p>Music used in this episode:</p>
+<ul>
+<li>Broadwaves theme tune<ul>
+<li>Tishiana Girls by Great Big Sea</li>
+</ul>
+</li>
+<li>Call for Feedback<ul>
+<li>Music from <em>Serenity</em> by David Newman</li>
+</ul>
+</li>
+</ul>
+]]></content:encoded>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>http://broadwaves.org/rss/episodes/bw20170528-batman-knightfall-p2.html</link>
+      <comments>http://signal.mirandathomas.com/archives/21672</comments>
+      <guid isPermaLink="false">batman-knightfall-p2#1</guid>
+      <pubDate>Sun, 28 May 2017 00:00:00 +0000</pubDate>
+      <itunes:image href="http://broadwaves.org/img/episodes/batman-knightfall-p2/image.png"/>
+      <podlove:chapters version="1.1">
+        <podlove:chapter start="0:01" title="Broadwaves opening theme"/>
+        <podlove:chapter start="0:32" title="Discussion"/>
+        <podlove:chapter start="2:05" title="Call for Feedback"/>
+        <podlove:chapter start="3:30" title="Discussion"/>
+        <podlove:chapter start="5:32" title="Feature: Biff Pow Splatt Thwack"/>
+        <podlove:chapter start="14:22" title="Discussion"/>
+        <podlove:chapter start="15:37" title="Broadwaves Crew Chat"/>
+        <podlove:chapter start="40:26" title="Discussion"/>
+        <podlove:chapter start="40:52" title="Briefwaves: Death of Superman"/>
+        <podlove:chapter start="46:48" title="Discussion"/>
+        <podlove:chapter start="49:52" title="Broadwaves closing theme"/>
+      </podlove:chapters>
+      <itunes:duration>50:40.002</itunes:duration>
+      <enclosure url="../tcsa/Broadwaves+Podcast/broadwaves_batman_knightfall_02.mp3" length="51971478" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Batman: Knightfall (A)</title>
+      <itunes:summary>In this episode, we discuss the BBC audio drama, Batman: Knightfall.</itunes:summary>
+      <content:encoded><![CDATA[<p><strong>Batman: Knightfall</strong> is a three-hour audio drama made by the BBC, based on the Batman comics.</p>
+<p>In this episode of <strong>Broadwaves</strong>, we introduce you to Batman: Knightfall, and  we do it without giving away any major spoilers - because if you haven't heard it yet, we want you to listen to it.</p>
+<p>Music used in this episode:</p>
+<ul>
+<li>Broadwaves theme tune<ul>
+<li>Tishiana Girls by Great Big Sea</li>
+</ul>
+</li>
+<li>Call for Feedback<ul>
+<li>Music from <em>Serenity</em> by David Newman</li>
+</ul>
+</li>
+</ul>
+<p>Other Links:</p>
+<ul>
+<li>The Sense8 Podcast<ul>
+<li>(http://sense8podcast.com)[Website]</li>
+<li>(http://sense8podcast.com/feed/podcast)[Podcast]</li>
+</ul>
+</li>
+<li>Sense8Cast<ul>
+<li>(http://sense8cast.libsyn.com/podcast)[Website]</li>
+<li>(http://sense8cast.libsyn.com/rss)[Podcast]</li>
+</ul>
+</li>
+</ul>
+]]></content:encoded>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>http://broadwaves.org/rss/episodes/bw20170428-batman-knightfall-p1.html</link>
+      <comments>http://signal.mirandathomas.com/archives/6980</comments>
+      <guid isPermaLink="false">batman-knightfall-p1#1</guid>
+      <pubDate>Fri, 28 Apr 2017 00:00:00 +0000</pubDate>
+      <itunes:image href="http://broadwaves.org/img/episodes/batman-knightfall-p1/image.png"/>
+      <podlove:chapters version="1.1">
+        <podlove:chapter start="0:01" title="Broadwaves opening theme"/>
+        <podlove:chapter start="0:33" title="Discussion"/>
+        <podlove:chapter start="2:46" title="Call for Feedback"/>
+        <podlove:chapter start="4:09" title="Discussion"/>
+        <podlove:chapter start="7:53" title="Feature: Knightfall: The BBC Audio Drama Adaptation"/>
+        <podlove:chapter start="28:59" title="Discussion"/>
+        <podlove:chapter start="33:04" title="Feature: I Want it All"/>
+        <podlove:chapter start="40:45" title="Discussion"/>
+        <podlove:chapter start="46:46" title="Comic Smörgåsbord: The Sculptor by Scott McCloud"/>
+        <podlove:chapter start="51:39" title="Discussion"/>
+        <podlove:chapter start="56:55" title="Broadwaves closing theme"/>
+      </podlove:chapters>
+      <itunes:duration>57:15.705</itunes:duration>
+      <enclosure url="../tcsa/Broadwaves+Podcast/broadwaves_batman_knightfall_01.mp3" length="64353945" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Farscape</title>
+      <itunes:summary>In this episode, we discuss the 1999-2003 sci-fi show, Farscape.</itunes:summary>
+      <content:encoded><![CDATA[<p><strong>Farscape</strong> is an Australian-American science fiction show from 1999-2003. It tells the story of John Crichton, an astronaut from present day Earth, who travels through a wormhole and ends up in a distant part of the galaxy, where he joins the crew of Moya, a living ship. The crew are renegades escaping from a corrupt militaristic organization called the Peacekeepers. Together, they have many adventures as John keeps on trying to get home, as a grander story arc evolves.</p>
+<p>In this special episode of <strong>Broadwaves</strong>, we look back over all seasons of <strong>Farscape</strong>, and discuss what our crew thought of this show. This are no major spoilers, so it's safe for you to listen to this podcast even if you haven't seen <strong>Farscape</strong> yet.</p>
+<p>Music used in this episode:</p>
+<ul>
+<li>Broadwaves theme tune<ul>
+<li>Tishiana Girls by Great Big Sea</li>
+</ul>
+</li>
+<li>Crew Chat theme tune<ul>
+<li>Evansessence by Anne Farnsworth</li>
+</ul>
+</li>
+<li>Call for Feedback<ul>
+<li>Music from <em>Serenity</em> by David Newman</li>
+</ul>
+</li>
+</ul>
+]]></content:encoded>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>http://broadwaves.org/rss/episodes/bw20170328-farscape.html</link>
+      <comments>http://signal.mirandathomas.com</comments>
+      <guid isPermaLink="false">farscape#1</guid>
+      <pubDate>Tue, 28 Mar 2017 00:00:00 +0000</pubDate>
+      <itunes:image href="http://broadwaves.org/img/episodes/farscape/image.png"/>
+      <podlove:chapters version="1.1">
+        <podlove:chapter start="0:01" title="Broadwaves opening theme"/>
+        <podlove:chapter start="0:33" title="Discussion"/>
+        <podlove:chapter start="2:51" title="Feedback"/>
+        <podlove:chapter start="4:15" title="Discussion"/>
+        <podlove:chapter start="5:25" title="Call for Feedback"/>
+        <podlove:chapter start="6:48" title="Discussion"/>
+        <podlove:chapter start="10:22" title="Farscape theme tunes"/>
+        <podlove:chapter start="13:34" title="Discussion"/>
+        <podlove:chapter start="17:20" title="Feature: Sci-Fi Review: Farscape"/>
+        <podlove:chapter start="27:32" title="Discussion"/>
+        <podlove:chapter start="28:22" title="Broadwaves Crew Chat"/>
+        <podlove:chapter start="1:13:42" title="Discussion"/>
+        <podlove:chapter start="1:15:52" title="Tralk Talk"/>
+        <podlove:chapter start="1:20:33" title="Discussion"/>
+        <podlove:chapter start="1:25:32" title="Broadwaves closing theme"/>
+      </podlove:chapters>
+      <itunes:duration>1:25:52.576</itunes:duration>
+      <enclosure url="../tcsa/Broadwaves+Podcast/broadwaves_farscape.mp3" length="88444676" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>This is Wonderland (season 1) (B)</title>
+      <itunes:summary>In this episode, we discuss the Canadian TV show, This is Wonderland.</itunes:summary>
+      <content:encoded><![CDATA[<p><strong>This is Wonderland</strong> is a Canadian TV series which aired on CBC. It is a legal drama, sort of. It's a show about Alice De Raey, a young criminal lawyer fresh out of law school, who is thrown in at the deep end, in the midst of a totally chaotic justice system. It is about the characters within that system, lawyers, judges and public alike, who range from the desperate to the bizarre.</p>
+<p>This show is about the warmth, humanity and diversity of the characters. It is about the tenaciousness of the human spirit, about compassion and kindness, and sometimes just plain idiocy. Sometimes, it's so painful it's funny.</p>
+<p>In this episode of <strong>Broadwaves</strong>, we dive deeper, and discuss what our crew thought of this show. There will be spoilers! Join in the discussion.</p>
+<p>Music used in this episode:</p>
+<ul>
+<li>Broadwaves theme tune<ul>
+<li>Tishiana Girls by Great Big Sea</li>
+</ul>
+</li>
+<li>Crew Chat theme tune<ul>
+<li>Evansessence by Anne Farnsworth</li>
+</ul>
+</li>
+<li>Call for Feedback<ul>
+<li>Music from <em>Serenity</em> by David Newman</li>
+</ul>
+</li>
+</ul>
+]]></content:encoded>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>http://broadwaves.org/rss/episodes/bw20170131-thisiswonderland-s1p2.html</link>
+      <comments>http://signal.mirandathomas.com</comments>
+      <guid isPermaLink="false">thisiswonderland-s1p2#1</guid>
+      <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
+      <itunes:image href="http://broadwaves.org/img/episodes/thisiswonderland-s1p2/image.png"/>
+      <podlove:chapters version="1.1">
+        <podlove:chapter start="0:01" title="Broadwaves opening theme"/>
+        <podlove:chapter start="0:33" title="Discussion"/>
+        <podlove:chapter start="2:27" title="Feature: This is Worth It"/>
+        <podlove:chapter start="6:54" title="Discussion"/>
+        <podlove:chapter start="8:46" title="Broadwaves Crew Chat"/>
+        <podlove:chapter start="50:14" title="Discussion"/>
+        <podlove:chapter start="54:31" title="Call for Feedback"/>
+        <podlove:chapter start="55:55" title="Discussion"/>
+        <podlove:chapter start="57:20" title="Broadwaves closing theme"/>
+      </podlove:chapters>
+      <itunes:duration>57:40.389</itunes:duration>
+      <enclosure url="../tcsa/Broadwaves+Podcast/broadwaves_thisiswonderland_02.mp3" length="56984207" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>This is Wonderland (season 1) (A)</title>
+      <itunes:summary>In this episode, we introduce you to the Canadian TV show, This is Wonderland.</itunes:summary>
+      <content:encoded><![CDATA[<p><strong>This is Wonderland</strong> is a Canadian TV series which aired on CBC. It is a legal drama, sort of. It's a show about Alice De Raey, a young criminal lawyer fresh out of law school, who is thrown in at the deep end, in the midst of a totally chaotic justice system. It is about the characters within that system, lawyers, judges and public alike, who range from the desperate to the bizarre.</p>
+<p>This show is about the warmth, humanity and diversity of the characters. It is about the tenaciousness of the human spirit, about compassion and kindness, and sometimes just plain idiocy. Sometimes, it's so painful it's funny.</p>
+<p>In this episode of <strong>Broadwaves</strong>, we introduce you to This is Wonderland, and we do it without giving away any major spoilers - because if you haven't seen it yet, we want you to watch it.</p>
+<p>Music used in this episode:</p>
+<ul>
+<li>Broadwaves theme tune<ul>
+<li>Tishiana Girls by Great Big Sea</li>
+</ul>
+</li>
+</ul>
+]]></content:encoded>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>http://broadwaves.org/rss/episodes/bw20161220-thisiswonderland-s1p1.html</link>
+      <comments>http://signal.mirandathomas.com</comments>
+      <guid isPermaLink="false">thisiswonderland-s1p1#1</guid>
+      <pubDate>Tue, 20 Dec 2016 00:00:00 +0000</pubDate>
+      <itunes:image href="http://broadwaves.org/img/episodes/thisiswonderland-s1p1/image.png"/>
+      <podlove:chapters version="1.1">
+        <podlove:chapter start="0:01" title="Broadwaves opening theme"/>
+        <podlove:chapter start="0:33" title="Discussion"/>
+        <podlove:chapter start="3:22" title="Feature: We March with Pride"/>
+        <podlove:chapter start="9:18" title="Discussion"/>
+        <podlove:chapter start="10:22" title="Feedback"/>
+        <podlove:chapter start="11:46" title="Discussion"/>
+        <podlove:chapter start="16:14" title="This is Wonderland theme tune"/>
+        <podlove:chapter start="16:55" title="Discussion"/>
+        <podlove:chapter start="17:10" title="Feature: Law and Order, Without the Order"/>
+        <podlove:chapter start="32:49" title="Discussion"/>
+        <podlove:chapter start="37:04" title="Broadwaves closing theme"/>
+      </podlove:chapters>
+      <itunes:duration>37:29.64</itunes:duration>
+      <enclosure url="../tcsa/Broadwaves+Podcast/broadwaves_thisiswonderland_01.mp3" length="45539030" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Sense8 (season 1) (B)</title>
+      <itunes:summary>In this episode, we discuss the Netflix original show, Sense8.</itunes:summary>
+      <content:encoded><![CDATA[<p><strong>Sense8</strong> is a Netflix original show, about eight people who start to discover they have a connection with each other. They learn that they can see through each other's eyes, and borrow each other's skills. They have become, in Sense8 mythology, a &quot;cluster&quot;.</p>
+<p>There are plenty of people out to get them. Individually, they each have their own stories, so that's eight adventures for a start. But together, they form part of a bigger story, a story about what it means to be human.</p>
+<p>In this episode of <strong>Broadwaves</strong>, we dive deeper, and discuss what our crew thought of this show. There will be spoilers! Join in the discussion.</p>
+<p>Music used in this episode:</p>
+<ul>
+<li>Broadwaves theme tune<ul>
+<li>Tishiana Girls by Great Big Sea</li>
+</ul>
+</li>
+</ul>
+]]></content:encoded>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>http://broadwaves.org/rss/episodes/bw20161130-sense8-s1p2.html</link>
+      <comments>http://broadwaves.org/</comments>
+      <guid isPermaLink="false">sense8-s1p2#1</guid>
+      <pubDate>Wed, 30 Nov 2016 00:00:00 +0000</pubDate>
+      <itunes:image href="http://broadwaves.org/img/episodes/sense8-s1p2/image.png"/>
+      <podlove:chapters version="1.1">
+        <podlove:chapter start="0:01" title="Broadwaves opening theme"/>
+        <podlove:chapter start="0:33" title="Discussion"/>
+        <podlove:chapter start="3:45" title="Feedback"/>
+        <podlove:chapter start="6:52" title="Discussion"/>
+        <podlove:chapter start="7:03" title="Feature: Geeking is Easy. Geeking is What I Do"/>
+        <podlove:chapter start="17:06" title="Discussion"/>
+        <podlove:chapter start="17:33" title="Broadwaves Crew Chat"/>
+        <podlove:chapter start="1:01:10" title="Discussion"/>
+        <podlove:chapter start="1:05:20" title="Briefwaves: Anamnesis"/>
+        <podlove:chapter start="1:11:36" title="Discussion"/>
+        <podlove:chapter start="1:15:14" title="Broadwaves closing theme"/>
+      </podlove:chapters>
+      <itunes:duration>1:15:34.561</itunes:duration>
+      <enclosure url="../tcsa/Broadwaves+Podcast/broadwaves_sense8_02.mp3" length="83145813" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Ron Glass</title>
+      <itunes:summary>Our tribute to Ron Glass</itunes:summary>
+      <content:encoded><![CDATA[<pre><code>This is our tribute to Ron Glass.
+</code></pre>
+]]></content:encoded>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>http://broadwaves.org/rss/episodes/bw20161127-ronglass-1.html</link>
+      <comments>http://signal.mirandathomas.com/archives/510</comments>
+      <guid isPermaLink="false">ronglass-1#1</guid>
+      <pubDate>Sun, 27 Nov 2016 00:00:00 +0000</pubDate>
+      <itunes:image href="http://broadwaves.org/img/episodes/ronglass-1/image.png"/>
+      <podlove:chapters version="1.1">
+        <podlove:chapter start="0:01" title="Broadwaves opening theme"/>
+        <podlove:chapter start="0:12" title="Signal opening theme"/>
+        <podlove:chapter start="1:01" title="Book's Farewell"/>
+        <podlove:chapter start="6:37" title="After the Earth was used up"/>
+        <podlove:chapter start="7:14" title="Nick"/>
+        <podlove:chapter start="12:12" title="Clip Bushwhacked"/>
+        <podlove:chapter start="12:25" title="Andy"/>
+        <podlove:chapter start="12:46" title="Clip from Objects in Space"/>
+        <podlove:chapter start="13:51" title="Jutta"/>
+        <podlove:chapter start="15:06" title="Clip from Serenity"/>
+        <podlove:chapter start="17:20" title="Preacher Book"/>
+        <podlove:chapter start="20:24" title="Clip from the Signal S10E4"/>
+        <podlove:chapter start="21:05" title="Clip from Serenity (pilot)"/>
+        <podlove:chapter start="21:23" title="Interview, part 1"/>
+        <podlove:chapter start="33:29" title="Clip from Jaynestown"/>
+        <podlove:chapter start="33:57" title="Interview, part 2"/>
+        <podlove:chapter start="44:18" title="Clip from Jaynestown"/>
+        <podlove:chapter start="45:55" title="Funeral music from Serenity"/>
+        <podlove:chapter start="46:38" title="Funeral music from The Message"/>
+        <podlove:chapter start="49:07" title="A minute's silence"/>
+      </podlove:chapters>
+      <itunes:duration>50:01.321</itunes:duration>
+      <enclosure url="../tcsa/Broadwaves+Podcast/broadwaves_ronglass.mp3" length="63392864" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Sense8 (season 1) (A)</title>
+      <itunes:summary>In this episode, we introduce you to the Netflix original show, Sense8.</itunes:summary>
+      <content:encoded><![CDATA[<p><strong>Sense8</strong> is a Netflix original show, about eight people who start to discover they have a connection with each other. They learn that they can see through each other's eyes, and borrow each other's skills. They have become, in Sense8 mythology, a &quot;cluster&quot;.</p>
+<p>There are plenty of people out to get them. Individually, they each have their own stories, so that's eight adventures for a start. But together, they form part of a bigger story, a story about what it means to be human.</p>
+<p>In this episode of <strong>Broadwaves</strong>, we introduce you to Sense8, and  we do it without giving away any major spoilers - because if you haven't seen it yet, we want you to watch it.</p>
+<p>Music used in this episode:</p>
+<ul>
+<li>Broadwaves theme tune<ul>
+<li>Tishiana Girls by Great Big Sea</li>
+</ul>
+</li>
+</ul>
+]]></content:encoded>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>http://broadwaves.org/rss/episodes/bw20161012-sense8-s1p1.html</link>
+      <comments>http://signal.mirandathomas.com/archives/331</comments>
+      <guid isPermaLink="false">sense8-s1p1#1</guid>
+      <pubDate>Wed, 12 Oct 2016 00:00:00 +0000</pubDate>
+      <itunes:image href="http://broadwaves.org/img/episodes/sense8-s1p1/image.png"/>
+      <podlove:chapters version="1.1">
+        <podlove:chapter start="0:01" title="Broadwaves opening theme"/>
+        <podlove:chapter start="0:32" title="Discussion"/>
+        <podlove:chapter start="8:16" title="Sense8 opening theme"/>
+        <podlove:chapter start="9:56" title="Discussion"/>
+        <podlove:chapter start="12:49" title="Feedback"/>
+        <podlove:chapter start="13:43" title="Discussion"/>
+        <podlove:chapter start="14:22" title="Feature: Kindness is Sexy"/>
+        <podlove:chapter start="28:50" title="Discussion"/>
+        <podlove:chapter start="30:01" title="Feature: If he's you and you're him, and you're him and he's him, am I still me?"/>
+        <podlove:chapter start="35:10" title="Discussion"/>
+        <podlove:chapter start="42:01" title="Broadwaves closing theme"/>
+      </podlove:chapters>
+      <itunes:duration>42:21.565</itunes:duration>
+      <enclosure url="../tcsa/Broadwaves+Podcast/broadwaves_sense8_01.mp3" length="51325732" type="audio/mpeg"/>
+    </item>
+
+  </channel>
+</rss>

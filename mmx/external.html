@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html><head><meta charset=UTF-8><title>Reavers Ate My Page</title>
+<script src=external.js></script>
+<script type=text/javascript>
+	var frag = location.hash;
+	if (!frag) window.location.href = 'index.html';
+	var h = frag.substring(1);
+	if (!h) window.location.href = 'index.html';
+	var url = new URL(h);
+	if (!url) window.location.href = 'index.html';
+	if (url.protocol != 'http:' && url.protocol != 'https:') window.location.href = 'index.html';
+	if (!isExternalHost(url.hostname)) window.location.href = 'index.html';
+</script><link rel=stylesheet type=text/css href=common.css><link rel=stylesheet type=text/css href=gorram.css><link rel=stylesheet type=text/css href=geometry.css></head>
+<body><p><a href=index.html>Signal</a> &#x2022; <span class=grayed-out>Blog<span> &#x2022; <span class=grayed-out>News<span> &#x2022; <a href=season/index.html>Seasons</a> &#x2022; <a href=series/index.html>Series</a> &#x2022; <a href=signalpromo/index.html>Promos</a> &#x2022; <a href=crew/index.html>Crew</a> &#x2022; <span class=grayed-out>Search<span> &#x2022; <a href=article/view/11/index.html>Contact</a></p>
+<hr><h1>Reavers Ate My Page</h1>
+
+<p>
+You have attempted to follow a link to <strong><script type=text/javascript>
+	document.write(url.hostname);
+</script></strong>. However, because our site was archived in 2015, 
+it is possible that this link might not exist any more. Or it might exist, but have been upgraded to https.
+You are welcome to try, but we can't give you any guarantees.
+<ul>
+<script type=text/javascript>
+	document.write("<li><a href=https://" + url.hostname + url.pathname + " rel=nofollow>Secure link: https://" + url.hostname + url.pathname + "</a></li>");
+	document.write("<li><a href=http://" + url.hostname + url.pathname + " rel=nofollow>Insecure link: http://" + url.hostname + url.pathname + "</a></li>");
+</script>
+</ul>
+
+</p>
+
+<p><img src=image/image/195/2/full/image.png alt=""></p>
+</div>
+
+</div>
+</div>
+<hr class=no-float><div class=no-float><p>This is an <a href=../index.html>archive</a> of the Signal website.. It is no longer actively maintained.
+</p></div>
+</body>
+</html>

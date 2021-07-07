@@ -1,0 +1,12 @@
+.align-center { text-align: center; }
+.align-left { text-align: left; } 
+.align-right { text-align: right; } 
+
+.float-left { float: left; margin-right: 20px; margin-bottom: 20px; }
+.float-right { float: right; margin-left: 20px; margin-bottom: 20px; }
+
+.full-width { width: 100%; }
+
+
+.no-float { clear: both; }
+

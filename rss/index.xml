@@ -1,0 +1,1867 @@
+<?xml version="1.0" ?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Signal</title>
+    <description>The Signal is an award-winning podcast dedicated to the SciFi show Firefly and its movie Serenity.</description>
+    <link>https://www.serenityfirefly.com/mmx/</link>
+    <atom:link href="https://www.serenityfirefly.com/rss/" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <pubDate>Wed, 31 Dec 2014 00:00:00 +0000</pubDate>
+    <ttl>240</ttl>
+    <image>
+      <url>https://www.serenityfirefly.com/mmx/image/season8/signal8v3.jpg</url>
+      <title>The Signal</title>
+      <link>https://www.serenityfirefly.com/mmx/</link>
+    </image>
+    <itunes:author>The Signal Crew</itunes:author>
+    <itunes:owner>
+      <itunes:name>The Signal Crew</itunes:name>
+      <itunes:email>feedback@serenityfirefly.com</itunes:email>
+    </itunes:owner>
+    <itunes:summary>The Signal is an award-winning podcast dedicated to the SciFi show Firefly and its movie Serenity.</itunes:summary>
+    <itunes:image href="https://www.serenityfirefly.com/mmx/image/season8/signal8v3.jpg" />
+    <itunes:category text="TV &amp; Film" />
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>The Signal: Season 10, Episode 6: Signal: The Movie</title>
+      <description>Features include: Road Trip: Portland, Oregon (1); Interview: Julian Higgins; Road Trip: Portland, Oregon (2); Music Section: Firefly Theme; Road Trip: Portland, Oregon (3); Diary of a Companion: Part 28; Road Trip: Arcata, California; How to Speak Chinese: Better Days and the Other Half; Road Trip: Kansas City, Missouri; They've All Got Stories: Genius Mechanic; Road Trip: Lansing, Michigan (1); Moonbrained Mike: New Job; Road Trip: Lansing, Michigan (2); Big Damn Test Kitchen: Banh Mi, Baked Apples and Garlic Shrimp Scampi; Road Trip: Elsmere, Kentucky; The Terraformers: Episode 29: This Mortal Coil; Road Trip: Atlanta, Georgia; Road Trip: Boston, Massachusetts; Around the 'Verse in 80 Days: Highgate; Road Trip: Cambridge, Massachusetts; Firefly in Five Lines: Claire's Choice; Road Trip: Banbury, England; Badger's World: Episode 34: Out To The Black; Road Trip: Milton Keynes, England; Broadwaves: Wolfblood; Road Trip: Farnham, England; The Raggedy Edge; Road Trip: Colchester, England; The Shipworks: Gang Aft Agley; Road Trip: Delft, the Netherlands; Much Ado about Much Ado about Nothing; Road Trip: Uelzen,Germany; Earthburn: Fire in the Darkness; Road Trip: Hamburg, Germany; Blue Sun Public Service Announcement: Browncoats; Road Trip: Mbeya, Tanzania; What's in a Signal?: Making the Signal Go Further; Shindig; Music Section: Mal's Song</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/256</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/256#0</guid>
+      <pubDate>Wed, 31 Dec 2014 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_1006_20141231.mp3" length="194248124" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 10, Episode 5.1: The Last....Bonus Show!</title>
+      <description>Features include: Editorial: As Of This Moment; Interview: QMx and Sparkplug Games talk FFO; The Cortex; Music Section: Town Combat by David Jospeh Wesley; Interview: Andrea Romano; Music Section: Prairie Town by David Jospeh Wesley; Interview: Morena Baccarin</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/257</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/257#0</guid>
+      <pubDate>Fri, 26 Dec 2014 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_1005.1_20141226.mp3" length="76817348" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 10, Episode 5: The Last Show</title>
+      <description>Features include: Serenity Speculation: Oil, and why I know Crow comes from Bellepheron; Music Section: Marc Gunn - Browncoats Keep Flyin'; Broadwaves: The Gamers: Hands of Fate; Review Leaves on the Wind; Earthburn: Flying Mother Nature's Silver Seed</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/255</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/255#0</guid>
+      <pubDate>Sat, 08 Nov 2014 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_1005_20141108.mp3" length="52863847" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 10, Episode 4</title>
+      <description>Features include: How to Speak Chinese: Dragon*Con; Diary of a Companion: Where Are They Now?; Not Really The News; Plan A; Recollections: Kevin; Recollections: Kara; Recollections: Kari; Recollections: Andy; Recollections: Les; Recollections: Craig; Recollections: Anna; Q&amp;A; Plan A (Fixed in Post)</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/254</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/254#0</guid>
+      <pubDate>Tue, 16 Sep 2014 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_1004_20140916.mp3" length="48334688" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 10, Episode 3</title>
+      <description>Features include: Interview: MWP (Part 2); Earthburn: Martial Law; Review: Firefly Board Game; Music Section: Jack Baruzzini - The Ballad of Mr Universe; Broadwaves: Agents of Shield</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/253</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/253#0</guid>
+      <pubDate>Tue, 05 Aug 2014 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_1003_20140805.mp3" length="52059800" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 10, Episode 2</title>
+      <description>Features include: Interview: MWP Interview; Firefly RPG Corebook review; Broadwaves: Corto Maltese</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/252</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/252#0</guid>
+      <pubDate>Sat, 14 Jun 2014 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_1002_20140614.mp3" length="40872693" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 10, Episode 1</title>
+      <description>Features include: Editorial: The End of the Line; Tangled Yarn: Mal and Saffron; Broadwaves: The Booth at the End; Review: Serenity Firefly Class 03-K64 Leaves on the wind; Three Times a Charm: The Ship; How to Speak Chinese: Better Days Part I</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/251</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/251#0</guid>
+      <pubDate>Fri, 11 Apr 2014 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_1001_20140401.mp3" length="52734669" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 9, Episode 8</title>
+      <description>Features include: Editorial: That's Something; The Terraformers: Episode 22: Revenge of the Mutant Lizards; How to Speak Chinese: Those Left Behind Vol. 3; Passion of Mal; CSTS; Earthburn: Far Above the World</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/250</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/250#0</guid>
+      <pubDate>Fri, 13 Dec 2013 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0908_20131213.mp3" length="39860523" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 9, Episode 7</title>
+      <description>Features include: D*Con Report!; Rose City Comic Con; Interviews at D*Con; How to Speak Chinese: Those Left Behind Vol. 2; Interview: Scott Allie (Dark Horse Comics)</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/249</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/249#0</guid>
+      <pubDate>Tue, 29 Oct 2013 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0907_20131029.mp3" length="52084937" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 9, Episode 6</title>
+      <description>Features include: Interview: Firefly Online; Music Section: Firefly ...ROCKS!</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/248</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/248#0</guid>
+      <pubDate>Tue, 23 Jul 2013 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0906_20130723.mp3" length="15607808" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 9, Episode 5</title>
+      <description>Features include: Editorial: Still Talking; Music Section: Clip - Flying to the Trap; Serenity Speculation: Hierarchy in Alliance Constabulary; Broadwaves: The Red Thunder trilogy, by John Varley; Does that Seem Right to You?: Cold Storage; How to Speak Chinese: Those Left Behind Vol. 1</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/247</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/247#0</guid>
+      <pubDate>Tue, 25 Jun 2013 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0905_20130625.mp3" length="33781402" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 9, Episode 4</title>
+      <description>Features include: Editorial: A Hopeful Cause; Earthburn: The Dying of the Light; Serenity Speculation: Health and Medicine; How to Speak Chinese: Serenity - The BDM - Part II; Broadwaves: The Stardance Books by Spider and Jeanne Robinson; Defending the Alliance</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/246</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/246#0</guid>
+      <pubDate>Tue, 21 May 2013 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0904_20130521.mp3" length="39508780" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 9, Episode 3</title>
+      <description>Features include: Editorial: Life on the Move; Does that Seem Right to You?: Artificial Gravity; Dead System 4: Reborn?; Broadwaves: Vlad Taltos; How to Speak Chinese: Serenity - The BDM - Part I</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/245</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/245#0</guid>
+      <pubDate>Tue, 23 Apr 2013 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0903_20130423.mp3" length="45375988" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 9, Episode 2</title>
+      <description>Features include: Music Section: Browncoats of Summer; Serenity Speculation: Reputation; How to Speak Chinese: Objects in Space; Broadwaves: Time Enough for Love; 101 uses for a Jayne's hat; Going Dark: I, Reaver; Same but Different</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/244</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/244#0</guid>
+      <pubDate>Tue, 26 Mar 2013 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0902_20130326.mp3" length="45309264" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 9, Episode 1</title>
+      <description>Features include: Editorial: Why are we still talking about this?; The Shipworks: Meet on the Ledge; Broadwaves: The Joss Whedon Companion; Serenity Speculation: The Beginning of the End?; Firefly in Five Lines: 'dillo's Choice; How to Speak Chinese: Heart of Gold; Does that Seem Right to You?: Terraforming</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/243</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/243#0</guid>
+      <pubDate>Tue, 19 Feb 2013 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0901_20130219.mp3" length="36722688" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 8, Episode 18: Holiday Special 2012</title>
+      <description>Features include: The Shipworks: The Blue Detour; News from the Con; The Shipworks: The Line; Promoting the Guild; Recruitment Drive; The Terraformers: Reunion Panel; Shindig</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/235</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/235#0</guid>
+      <pubDate>Fri, 21 Dec 2012 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0818_20121221.mp3" length="31699446" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 8, Episode 17</title>
+      <description>Features include: Ten Years On; Still Going Strong; How to Speak Chinese: The Message; Out of Renewable Biofuel; Broadwaves: The Windup Girl; The Shipworks: The Broken Contacts in Emotional Chemistry; Music Section: Please Bring Firefly Back (For Christmas); Nine Different Things</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/242</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/242#0</guid>
+      <pubDate>Tue, 04 Dec 2012 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0817_20121204.mp3" length="31424375" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 8, Episode 16</title>
+      <description>Features include: Editorial: Book Review - Firefly: A Celebration; Earthburn: The Day we Lost the Internet; Does that Seem Right to You?: Grounded in Reality; Dead System 3: In the Savage Black; Not a Good-Bye; Silence in Space: Serenity, the film</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/241</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/241#0</guid>
+      <pubDate>Tue, 20 Nov 2012 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0816_20121120.mp3" length="40838027" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 8, Episode 15</title>
+      <description>Features include: Silence in Space: Objects in Space; Broadwaves: Game of Thrones; Dead Canon; Music Section: Movie Snippet; From Signal Speculation to the Tabletop; How to Speak Chinese: Trash</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/240</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/240#0</guid>
+      <pubDate>Tue, 06 Nov 2012 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0815_20121106.mp3" length="44445227" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 8, Episode 14</title>
+      <description>Features include: Silence in Space: Heart of Gold; The Tension is Killing Them; Serenity Speculation: The Origins of Indenture; Dead System 2: Travellin' the 'Verse; Broadwaves: Homeland; How to Speak Chinese: War Stories</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/239</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/239#0</guid>
+      <pubDate>Tue, 16 Oct 2012 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0814_20121016.mp3" length="44412291" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 8, Episode 13</title>
+      <description>Features include: Interview: Marian Call; Going Dark: Telling it Like it Ain't; Silence in Space: The Message; Firefly in Five Lines: Matthew's Choice; Does that Seem Right to You?: Getting There; Serenity Speculation: How'd Mal Pay for Serenity?</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/237</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/237#0</guid>
+      <pubDate>Tue, 02 Oct 2012 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0813_20120927.mp3" length="61101716" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 8, Episode 12.2: The Signal Live 2012 at DragonCon</title>
+      <description>Features include: Interview: GB Hajim; How to Speak Chinese: Juggling Geese; In Character Live Q&amp;A Session</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/238</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/238#0</guid>
+      <pubDate>Thu, 20 Sep 2012 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0812.2_20120920.mp3" length="32917391" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 8, Episode 12.1: Firefly's 10th Anniversary Panel</title>
+      <description>Features include: Firefly's 10th Anniversary Panel at Comic-Con; Panel Talk</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/236</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/236#0</guid>
+      <pubDate>Thu, 13 Sep 2012 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0812.1_20120913.mp3" length="64523256" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 8, Episode 12</title>
+      <description>Features include: Editorial: Dead System?; How to Speak Chinese: Ariel; Tangled Yarn: Jayne and Kaylee; Interview: Patric Reynolds; The Shipworks: Sparks for the Monkey; Silence in Space: Trash</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/234</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/234#0</guid>
+      <pubDate>Tue, 31 Jul 2012 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0812_20120731.mp3" length="50351567" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 8, Episode 11</title>
+      <description>Features include: Interview: Jane Espenson; Earthburn: Recycling the World; Spreading the Word by Deed; Silence in Space: War Stories; Does that Seem Right to You?: So we Found a New Solar System; Going Dark: Lullaby</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/233</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/233#0</guid>
+      <pubDate>Tue, 17 Jul 2012 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0811_20120717.mp3" length="59393335" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 8, Episode 10</title>
+      <description>Features include: Does that Seem Right to You?: The Earth Got Used Up; Serenity Speculation: Companion Supply and Demand; Going Dark: The Birth of the Reavers; Silence in Space: Ariel; Bigger Damn Heroes?  - A Browncoat's Guide to the Avengers; How to Speak Chinese: Out of Gas</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/232</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/232#0</guid>
+      <pubDate>Tue, 03 Jul 2012 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0810_20120703.mp3" length="46737224" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 8, Episode 9</title>
+      <description>Features include: Does that Seem Right to You?: Introduction; How to Speak Chinese: Jaynestown; Serenity Speculation: The Political Economy of the 'Verse; The Shipworks: Ares I; Silence in Space: Out of Gas; Editorial: Introducing Lost and Found; Going Dark: Inoculum</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/231</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/231#0</guid>
+      <pubDate>Tue, 12 Jun 2012 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0809_20120612.mp3" length="37576082" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 8, Episode 8</title>
+      <description>Features include: My coat's kind of a brownish colour; Silence in Space: Jaynestown; Serenity Speculation: No Love for thy Neighbors, Part 2; Broadwaves: Songs from the Floodplain; Going Dark: Losing It; How to Speak Chinese: Our Mrs. Reynolds</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/230</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/230#0</guid>
+      <pubDate>Tue, 29 May 2012 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0808_20120529.mp3" length="45380823" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 8, Episode 7</title>
+      <description>Features include: Serenity Speculation: The Military Industrial Complex of the 'Verse; Going Dark: Borders; Silence in Space: Our Mrs Reynolds; Music Section: Leaf on the Wind; How to Speak Chinese: Safe</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/229</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/229#0</guid>
+      <pubDate>Tue, 15 May 2012 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0807_20120515.mp3" length="36899068" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 8, Episode 6</title>
+      <description>Features include: Silence in Space: Safe; Resistance in the 'Verse; How to Speak Chinese: Shindig; Earthburn: Imagine what Tomorrow could be Like; Serenity Speculation: No Love for thy Neighbors?; Going Dark: War and Pax</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/228</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/228#0</guid>
+      <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0806_20120501.mp3" length="39361574" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 8, Episode 5</title>
+      <description>Features include: Broadwaves: Dollhouse: Epitaphs; Serenity Speculation: It's About Time; Going Dark: Risk Assessment; The Shipworks: Life, the 'Verse and Everything Else; Silence in Space: Shindig</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/227</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/227#0</guid>
+      <pubDate>Tue, 17 Apr 2012 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0805_20120417.mp3" length="38273672" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 8, Episode 4</title>
+      <description>Features include: Everyone Lies; How to Speak Chinese: Bushwacked; What Sounds Like Firefly? Pt. 2; The Shipworks: Discovery; Going Dark: A Moment of Truth; Silence in Space: Bushwhacked</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/226</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/226#0</guid>
+      <pubDate>Tue, 03 Apr 2012 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0804_20120403.mp3" length="39298536" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 8, Episode 3</title>
+      <description>Features include: The Shipworks: The Entropy Within (part one of &quot;Beer&quot;); Tangled Yarn: Simon and River; What Sounds Like Firefly? Pt. I; Serenity Speculation: Keeping Time in the 'Verse; Music Section: Black Grace; Ten Years On; Going Dark: Ceasefire</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/225</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/225#0</guid>
+      <pubDate>Tue, 13 Mar 2012 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0803_20120313.mp3" length="43236633" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 8, Episode 2</title>
+      <description>Features include: The Bipolar World of Malcolm Reynolds; Editorial: Coats of a Brownish Colour; Vote: Vote: Election Day; Serenity Speculation: Is the Alliance a Democracy?; The Shipworks: Chance Encounter; Silence in Space: The Train Job; How to Speak Chinese: The Train Job</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/224</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/224#1</guid>
+      <pubDate>Tue, 28 Feb 2012 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0802_20120228a.mp3" length="42953284" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 8, Episode 1</title>
+      <description>Features include: Editorial: Those Little Reminders; Firefly in Five Lines: John's choice; Broadwaves: Keen Eddie; How to Speak Chinese: Pilot, part 3; Tangled Yarn: Mal and Jayne; Going Dark: Going Away; Silence in Space: Serenity, the pilot</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/223</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/223#0</guid>
+      <pubDate>Tue, 14 Feb 2012 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0801_20120214.mp3" length="44958202" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 7, Episode 21.1: Theme Tune Quiz</title>
+      <description>Features include: The Signal Theme Tune Quiz</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/222</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/222#0</guid>
+      <pubDate>Thu, 19 Jan 2012 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0721.1_20120117.mp3" length="37935247" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 7, Episode 21: Holiday Special</title>
+      <description>Features include: Broadwaves: Killer Angels; The Terraformers: Episode 25: The Day of Plagues; Diary of a Companion: Part 27; Permanent Waves; Analyzing Unification Day; Hard Burn: The Firefly; Borderline: Hard Burn: Star in a Reasonably Priced Spaceship; Hard Burn: The Race; Tangled Yarn: The War Buddy Bond; Life in the 'Verse Special: Remembering Serenity Valley; Music Section: The Ballad of Serenity</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/212</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/212#0</guid>
+      <pubDate>Thu, 22 Dec 2011 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0721_20111222.mp3" length="67711078" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 7, Episode 20</title>
+      <description>Features include: Editorial: The Future's so Bright; How to Speak Chinese: Pilot, part 2; Going Dark: Making Money on Miranda; Serenity Speculation: What's Patience's Game Plan?; What's in a Signal?: Holiday Specials; Badger's World: Episode 30: Flying Visit</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/221</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/221#0</guid>
+      <pubDate>Thu, 08 Dec 2011 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0720_20111208.mp3" length="45281696" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 7, Episode 19</title>
+      <description>Features include: Editorial: Much Ado About Hope; Earthburn: The Summer of '69; What's in a Signal?: Levels of Analysis; A Tale of Two Crews; How to Speak Chinese: Pilot; Diary of a Companion: Part 26; Going Dark: Let's Get Outa Here</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/220</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/220#0</guid>
+      <pubDate>Thu, 24 Nov 2011 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0719_20111124.mp3" length="45182316" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 7, Episode 18</title>
+      <description>Features include: Editorial: Flying Solo; Going Dark: Going Up; Music Section: Preacher Book; The Value of Life, Part 1; Firefly in Five Lines: Jill's Choice</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/219</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/219#0</guid>
+      <pubDate>Tue, 08 Nov 2011 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0718_20111108.mp3" length="34592647" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 7, Episode 17</title>
+      <description>Features include: Firefly in Five Lines: Les's Choice; The Shipworks: The Brainpan (part two of &quot;Beer&quot;); Tangled Yarn: Jayne and Book; Music Section: Firefly; Diary of a Companion: Part 25; Editorial: So Long and Thanks for All the Fish</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/218</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/218#0</guid>
+      <pubDate>Tue, 25 Oct 2011 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0717_20111025.mp3" length="38413248" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 7, Episode 16</title>
+      <description>Features include: Earthburn: Conventional Wisdom; Tangled Yarn: Kaylee and Inara; Firefly in Five Lines: Craig's Choice; Serenity Speculation: What Did The Operative Want?; Vote: Interview: Niska Headquarters; Going Dark: First Shots Fired</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/216</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/216#0</guid>
+      <pubDate>Tue, 11 Oct 2011 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0716_20111011.mp3" length="37732372" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 7, Episode 15.1: The Signal Live 2011</title>
+      <description>Features include: Interview: Mike Dougherty; The Shipworks: Of Electric Sheep; Music Section: Freedom Costs; How to Speak Chinese: Fruity Oaty Bar; Q&amp;A Session</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/217</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/217#0</guid>
+      <pubDate>Tue, 04 Oct 2011 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0715.1_20111004.mp3" length="40717240" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 7, Episode 15</title>
+      <description>Features include: Vote: Interview: Badger headquarters; Broadwaves: The Sandman (Series of Comic Books by Neil Gaiman); Firefly in Five Lines: Anna's Choice; Going Dark: I Never Want to Grow Up; Partners in Crime; Diary of a Companion: Part 24</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/215</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/215#0</guid>
+      <pubDate>Tue, 27 Sep 2011 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0715_20110927.mp3" length="37784712" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 7, Episode 14</title>
+      <description>Features include: The Vasty Nothingness; What's in a Signal?: Speculating, Signal Style; Tangled Yarn: Mal and Book; Firefly in Five Lines: Andy's Choice; Interview: The Browncoats; Getting Dicey: Dicey Adventures</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/213</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/213#0</guid>
+      <pubDate>Tue, 13 Sep 2011 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0714_20110913.mp3" length="47560862" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 7, Episode 13.5: Blast from the Past, part three</title>
+      <description>Features include: Broadwaves: Secret Army; Interview: Nathan and Sandra Town; Diary of a Companion: Part 1; The Terraformers: Episode 12: Blast Off; Musical Evolution: From Firefly to Serenity; Earthburn: Articles of Alliance</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/214</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/214#0</guid>
+      <pubDate>Tue, 06 Sep 2011 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0713.5_20110906.mp3" length="65717656" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 7, Episode 13.4: Blast from the Past, part two</title>
+      <description>Features include: Mudders' Milk advertisement; Mudders' Milk How-To; Interview: Gina Torres; Reavers and Frankenstein; Badger's World: Episode 1: Reasonable</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/211</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/211#0</guid>
+      <pubDate>Tue, 30 Aug 2011 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0713.4_20110830.mp3" length="41496180" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 7, Episode 13.3: Redemption Talk</title>
+      <description>Features include: Redemption Talk</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/210</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/210#0</guid>
+      <pubDate>Tue, 23 Aug 2011 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0713.3_20110823.mp3" length="53434681" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 7, Episode 13.2: Redemption Special</title>
+      <description>Features include: Heart of Redemption; Redressing the Balance; The Good, the Bad, and the Alliance; Music Section: Hush Little Citizen; Redemption in Five Lines; Analyzing Laura; Interview: Mike Doherty (Redemption); The Sound of Redemption; Music Section: Redemption Trailer Four</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/209</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/209#0</guid>
+      <pubDate>Tue, 16 Aug 2011 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0713.2_20110816.mp3" length="63152536" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 7, Episode 13.1: Blast from the Past, part one</title>
+      <description>Features include: Serenity Speculation: Reavers; The Terraformers: Episode 0: Attack of the Crazy, Demented, Killer Training Instructor; The Terraformers: Episode 3: Invasion of the Killer Squirrels; Interview: Adam Baldwin; The Poetry of the 'Verse: Babelverse; The Science of Firefly; Borderline: Paquin</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/208</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/208#0</guid>
+      <pubDate>Tue, 02 Aug 2011 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0713.1_20110802.mp3" length="100" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 7, Episode 13</title>
+      <description>Features include: What's in a Signal?: Catching Clips; Firefly in Five Lines: Jutta's Choice; Interview: Andy Gore; Tangled Yarn: Pull One String, You Pull Them All; Serenity Speculation: Reaver Expansion; Vote: Interview: Mo Wenti; The Heroes of Firefly</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/207</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/207#0</guid>
+      <pubDate>Tue, 19 Jul 2011 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0713_20110719.mp3" length="48415379" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 7, Episode 12</title>
+      <description>Features include: Editorial: Long Live Firefly; How to Speak Chinese: The Five Suns; A Tale of Two Equilibria; Broadwaves: Being Human; Interview: Lisa Anderson of Whedonfest 2011; Psychic Definitions - What is a Reader?; Diary of a Companion: Part 23</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/206</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/206#0</guid>
+      <pubDate>Tue, 05 Jul 2011 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0712_20110705.mp3" length="59537763" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 7, Episode 11</title>
+      <description>Features include: Of Love and Money; The Shipworks: Glitch Hunt (part three of &quot;Beer&quot;); Interview: Denise Gary; Getting Dicey: Dicey Details; When the Stars Align</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/205</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/205#0</guid>
+      <pubDate>Tue, 21 Jun 2011 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0711_20110621.mp3" length="52765698" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 7, Episode 10</title>
+      <description>Features include: Editorial: Moments of Irrational Optimism; A Firefly Safari; Interview: Marc Gunn &amp; Cedric; The Expanding Whedonverse; Vote: Debate; Music Section: Freedom Costs; The Voice of Serenity</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/204</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/204#0</guid>
+      <pubDate>Thu, 02 Jun 2011 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0710_20110602.mp3" length="53155968" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 7, Episode 9</title>
+      <description>Features include: What's in a Signal?: Hosting; Never Too Young to Wear a Brown Coat; Life on the Raggedy Edge; Vote: Vote Jayne; Firefly in Five Lines: Cornelius's Choice; Serenity Speculation: What is the Backstory of the Operative?; Diary of a Companion: Part 22; Around the 'Verse in 80 Days: Bernadette</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/203</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/203#0</guid>
+      <pubDate>Tue, 17 May 2011 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0709_20110517.mp3" length="45359520" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 7, Episode 8</title>
+      <description>Features include: Editorial: Shades of Brown; Serenity Speculation: For What Was the Alliance Training River?; The Poetry of the 'Verse: Along for the Ride; The Shipworks: ¡Cuidado!; Vote: Don't Vote Badger; Getting Dicey: Dicey Crews; Firefly and Me: They Call it the Law; Music Section: Lay Me Down; Firefly in Five Lines: Nick's Choice</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/202</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/202#0</guid>
+      <pubDate>Tue, 03 May 2011 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0708_20110503.mp3" length="45171185" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 7, Episode 7</title>
+      <description>Features include: The Industrial Characters of the 'Verse; The Shipworks: The Relativity of Simultaneity; An Indelible Mark; Vote: Vote Sheriff Bourne; Firefly in Five Lines: James's Choice; The Poetry of the 'Verse: Following the Voices; Interview: Mikey Mason; Music Section: She don't like Firefly</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/201</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/201#0</guid>
+      <pubDate>Tue, 19 Apr 2011 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0707_20110419.mp3" length="41331478" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 7, Episode 6</title>
+      <description>Features include: Editorial: Taking a Journey; How to Speak Chinese: Liann Jiun and its moons; Firefly in Five Lines: Kara's Choice; Vote: Vote Badger; Diary of a Companion: Part 21; Serenity Speculation: Alliance Inaction, Considered; Firefly and Me: Doing Something Right; The Poetry of the 'Verse: Whedony; Browncoat Cosplay: An Introduction</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/199</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/199#0</guid>
+      <pubDate>Tue, 05 Apr 2011 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0706_20110405.mp3" length="44792172" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 7, Episode 5</title>
+      <description>Features include: How to Speak Chinese: The Moons of Sihnon; Interview: Melissa Honig - Browncoat Ball; The Poetry of the 'Verse: Babelverse; Firefly in Five Lines: Bindiya's Choice; The Clothes and the Characters, Part II; Broadwaves: Podcastnovel: Shadowmagic; Vote: Vote Niska</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/198</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/198#0</guid>
+      <pubDate>Tue, 22 Mar 2011 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0705_20110322.mp3" length="148" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 7, Episode 4</title>
+      <description>Features include: Editorial: The Squeaky Wheel; The Shipworks: Superpolynomial Subexponential Runtimes; The Poetry of the 'Verse: The Language of Time Travel; He Looks Better in Red; Interview: John Mullaney; Around the 'Verse in 80 Days: Xing Yun</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/197</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/197#0</guid>
+      <pubDate>Tue, 08 Mar 2011 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0704_20110308.mp3" length="148" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 7, Episode 3</title>
+      <description>Features include: The Worthier Part; Heart of Firefly: The Heart of Serenity; Vote: Vote Patience; Interview: Heather Fagan; Diary of a Companion: Part 20; Firefly in Five Lines: Steve's Choice</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/196</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/196#0</guid>
+      <pubDate>Tue, 22 Feb 2011 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0703_20110222.mp3" length="55626249" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 7, Episode 2</title>
+      <description>Features include: Editorial: Celebrate; Serenity Speculation: Survival of the Fittest; Interview: Mike Dougherty; The Clothes and the Characters; Around the 'Verse in 80 Days: Ezra; Firefly in Five Lines: Paul's Choice</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/195</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/195#0</guid>
+      <pubDate>Tue, 08 Feb 2011 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0702_20110208.mp3" length="56018703" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 7, Episode 1</title>
+      <description>Features include: Editorial: Charity Begins in the 'Verse; Reaver Chase: The Game; Diary of a Companion: Part  19; Broadwaves: Jim Butcher's The Dresden Files series; Firefly and Me: Better Late than Even Later; Firefly in Five Lines: Miranda's Choice; The Shipworks: Minimal Expressionist Postmodern Neo-symbolist</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/194</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/194#0</guid>
+      <pubDate>Tue, 25 Jan 2011 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_0701_20110125.mp3" length="38353597" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 6, Episode 21: Songs from the Black III: Rock the Boat!</title>
+      <description>Features include: Music Section: Monahan's Mudders' Milk; Music Section: Missing Part; Music Section: The Hero of Canton; Music Section: She Said Her Name was Saffron; Music Section: Ode To Vera; Music Section: Albatross; Music Section: Tentative Radar; Music Section: Anchorage; Music Section: Bellflower Medley; Music Section: Bring Me Home; Music Section: Inara's Lament; Music Section: They Fall Right Out Of The Sky; Music Section: Apprentice; Music Section: Earth that Was; Music Section: To the Black (The Ballad of Serenity)</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/193</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/193#0</guid>
+      <pubDate>Tue, 28 Dec 2010 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_621_20101228.mp3" length="49624432" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 6, Episode 20: Holiday Special</title>
+      <description>Features include: Serenity Speculation: Sounds Like Science Fiction; Badger's World: Episode 29: Deck The Halls; Cortex 2.0; The Terraformers: Episode 32: Revolutions; Diary of a Companion: Part  18; What's in a Signal?: Audio Editing; Broadwaves: Barney Miller; Broadwaves: Dollhouse; Firefly in Five Lines: Helen's Choice; The Shipworks: Big Damn Zeroes; Music Section: To the Black (The Ballad of Serenity); Earthburn: Articles of Alliance</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/192</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/192#0</guid>
+      <pubDate>Tue, 14 Dec 2010 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_620_20101214.mp3" length="79206061" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 6, Episode 19</title>
+      <description>Features include: Editorial: A Need As Big As The 'Verse; Diary of a Companion: Part 17; Serenity Speculation: Miranda: The Distraction; Broadwaves: Batman: The Animated Series; What's in a Signal?: The Terraformers; Farewell from Kevin</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/191</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/191#0</guid>
+      <pubDate>Tue, 23 Nov 2010 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_619_20101123.mp3" length="41929189" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 6, Episode 18.1</title>
+      <description>Features include: Listener Article: Meet the Crew; Listener Article: The Little Things in the Big Damn 'Verse; Listener Article: A New Look at Shepherd Book; The Signal Parsec Award Submission 2010</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/190</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/190#0</guid>
+      <pubDate>Tue, 16 Nov 2010 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_618.1_20101116.mp3" length="18627442" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 6, Episode 18</title>
+      <description>Features include: Editorial: Journey of a Lone Browncoat; Like Gravity; Diary of a Companion: Part 16; It's in the Details; Serenity Speculation: Primary Education in the 'Verse; Big Damn Actors: Jewel Staite in Mothman 2010; Getting Dicey: Dicey Heroes; The Terraformers: Episode 31: Judgment Day</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/188</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/188#0</guid>
+      <pubDate>Tue, 09 Nov 2010 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_618_20101109.mp3" length="44704010" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 6, Episode 17</title>
+      <description>Features include: Editorial: Making Time for Firefly; Queen of the Black: Part 4: Double Trouble; Serenity Speculation: Dozens of planets and hundreds of moons, but how many languages?; The Terraformers: Episode 30: The Phantom Hope; Music Section: Anchorage; Big Damn Actors: Adam Baldwin in My Bodyguard</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/187</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/187#0</guid>
+      <pubDate>Tue, 02 Nov 2010 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_617_20101102.mp3" length="45214964" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 6, Episode 16</title>
+      <description>Features include: Editorial: It's The People You Meet; Diary of a Companion: Part 15; Music Section: Earth that Was; What's in a Signal?: Bonus Shows; The Terraformers: Episode 18: The Cup of Truth; Broadwaves: Cosmos</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/185</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/185#0</guid>
+      <pubDate>Tue, 12 Oct 2010 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_616_20101012.mp3" length="52694314" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 6, Episode 15</title>
+      <description>Features include: A Change of Venue; Interview: Michael Dougherty; The Reaver Potential; The Terraformers: Episode 17: Through Fire and Water; Broadwaves: Leverage; A 'Verse of Make-Believe; Around the 'Verse in 80 Days: Isabel; What's in a Signal?: Diary of a Companion</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/180</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/180#0</guid>
+      <pubDate>Tue, 28 Sep 2010 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_615_20100928.mp3" length="45736646" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 6, Episode 14.4: Live at Dragon*Con 2010</title>
+      <description>Features include: Music Section: Bring Me Home and Monaghan Mudder's Milk; Debate: Jayne's actions on Ariel were defensible - yes or no?; Badger's World: Episode 28: Notes from the Edge; Questions and Answers; Interview: Browncoats Redemption; Interview: QMx</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/184</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/184#0</guid>
+      <pubDate>Tue, 14 Sep 2010 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_614.4_20100914.mp3" length="47720799" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 6, Episode 14.3</title>
+      <description>Features include: Listener Article: When does Mal Kill?; Listener Article: What's in a Name?; Listener Article: Resources in the 'Verse; Listener Article: How do you Lose 30 Million People?; Listener Article: Serial Storytelling</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/183</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/183#1</guid>
+      <pubDate>Tue, 07 Sep 2010 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_614.3_20100907a.mp3" length="26212704" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 6, Episode 14.2: Dark Places</title>
+      <description>Features include: Dark Places: Vindicator; Music Section: Journey to Paradise</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/182</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/182#0</guid>
+      <pubDate>Tue, 31 Aug 2010 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_614.2_20100831.mp3" length="33115917" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 6, Episode 14.1</title>
+      <description>Features include: Listener Article: Why Browncoats?; Listener Article: What Makes a Show More than Just a Show?; Listener Article: Big Damn Wedding; Listener Article: Post in the 'Verse</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/181</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/181#0</guid>
+      <pubDate>Tue, 24 Aug 2010 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_614.1_20100824.mp3" length="23946614" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 6, Episode 14</title>
+      <description>Features include: Finishing the War; A Sense of Place in Firefly; Firefly and Me: On the Move; Was a Mighty Fine Shindig; Heart of Firefly: The Heart of Firefly; Serenity Speculation: Reavers</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/179</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/179#0</guid>
+      <pubDate>Tue, 10 Aug 2010 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_614_20100810.mp3" length="40996332" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 6, Episode 13</title>
+      <description>Features include: Editorial: O' What Joss Has Started; The Terraformers: Episode 16: The Turn of the Worlds; Firefly and Me: Life on the Edge; Interview: QMx; Diary of a Companion: Part 14</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/178</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/178#0</guid>
+      <pubDate>Tue, 27 Jul 2010 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_613_20100727a.mp3" length="39746401" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 6, Episode 12</title>
+      <description>Features include: Editorial: Browncoats are Amazing; Broadwaves: Chuck; The Terraformers: Episode 15: Appointment With Doom; Interview: Wayne Hutchinson; Bars and the Verse; Diary of a Companion: Part 13</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/177</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/177#0</guid>
+      <pubDate>Thu, 15 Jul 2010 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_612_20100713.mp3" length="53598666" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 6, Episode 11</title>
+      <description>Features include: Editorial: A 'verse Full of Content; Firefly and Me: The Need to Be Free; Big Damn Actors: Gina Torres in South of Pico; They've All Got Stories: Dobson's Story; Heart of Firefly: Objects and Outsiders; Serenity Speculation: Companion Guild; Music Section: Tentative Radar; Review of Firefly: Still Flying</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/176</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/176#0</guid>
+      <pubDate>Tue, 29 Jun 2010 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_611_20100629.mp3" length="42317187" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 6, Episode 10</title>
+      <description>Features include: Can't Stop the Serenity: Five Years On and Still Going Strong; Interview: Can't Stop the Serenity 2010; Queen of the Black: Part 3: Vaccine Your Head?; Reavers and Frankenstein; Diary of a Companion: Part 12; Heart of Firefly: Independence and Strength; Music Section: They Fall Right Out Of The Sky</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/172</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/172#0</guid>
+      <pubDate>Tue, 15 Jun 2010 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_610_20100615.mp3" length="58285274" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 6, Episode 9</title>
+      <description>Features include: Editorial: Is There an End?; Interview: Michael Dougherty; Around the 'Verse in 80 Days: Anson's World; They've All Got Stories: Serenity; Serenity Speculation: What Does Shepherd Book Really Believe?; Heart of Firefly: What Are We Now?</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/170</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/170#1</guid>
+      <pubDate>Tue, 01 Jun 2010 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_609_20100601.mp3" length="50289642" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 6, Episode 8</title>
+      <description>Features include: Pioneers of the 'Verse, Part 2; What's in a Signal?: Getting Dicey; Diary of a Companion: Part 11; Heart of Firefly: It's Called a Life; The Terraformers: Episode 14: The Inquisition; Serenity Speculation: Fish, Flesh and Fowl ... Animals in the 'Verse</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/168</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/168#0</guid>
+      <pubDate>Tue, 18 May 2010 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/thesignal/signal_608_20100518.mp3" length="44876319" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 6, Episode 7</title>
+      <description>Features include: Pioneers of the 'Verse, Part 1; Broadwaves: Ally McBeal; What's in a Signal?: How to Make a Podcast; Queen of the Black: Part 2: Curiosity Killed the Cow; Firefly and Me: Life on the Rim; A Review of Serenity Adventures</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/165</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/165#0</guid>
+      <pubDate>Tue, 27 Apr 2010 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_607_20100427.mp3" length="54033701" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 6, Episode 6</title>
+      <description>Features include: Editorial: To Browncoats, Now and to Come; Getting Dicey: Dicey Battles; Broadwaves: Black Books; Diary of a Companion: Part 10; Music Section: Engines Make Me Hot; They've All Got Stories: Patience</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/164</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/164#0</guid>
+      <pubDate>Tue, 13 Apr 2010 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_606_20100413.mp3" length="41143525" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 6, Episode 5</title>
+      <description>Features include: Editorial: The Wheel Keeps Turning; Queen of the Black: Part 1: A Call to Arms; Heart of Firefly: The Real Me; The Terraformers: Episode 13: The Poisoned Chalice; Review of Atlas of The Verse Vol.1; What's in a Signal?: The Journey Home; Big Damn Actors: Nathan Fillion in Waitress</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/162</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/162#0</guid>
+      <pubDate>Tue, 30 Mar 2010 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_605_20100330.mp3" length="40743852" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 6, Episode 4</title>
+      <description>Features include: Heart of Firefly: Loyalty and Betrayal; The Terraformers: Episode 12: Blast Off; Guerrilla Marketing: The Good, the Not So Good, and the Let's Try Something Else; Interview: Ben Mund; Audio Conversion; Broadwaves: Bones</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/161</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/161#0</guid>
+      <pubDate>Tue, 16 Mar 2010 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_604_20100316.mp3" length="55453090" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 6, Episode 3</title>
+      <description>Features include: Big Damn Actors: Alan Tudyk in Death at a Funeral; Heart of Firefly: Created Family; They've All Got Stories: Malcolm Reynolds; It Has to Be; Around the 'Verse in 80 Days: New Melbourne; Getting Dicey: Dicey Strangers</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/160</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/160#0</guid>
+      <pubDate>Tue, 23 Feb 2010 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_603_20100223.mp3" length="39814416" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 6, Episode 2</title>
+      <description>Features include: Browncoat: The Next Generation; What's in a Signal?: The Crew; Interview: Browncoats Redemption; Getting Dicey: Dicey Events; Diary of a Companion: Part 9; Heart of Firefly: Making Sense</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/159</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/159#0</guid>
+      <pubDate>Tue, 09 Feb 2010 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_602_20100209.mp3" length="57125763" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 6, Episode 1</title>
+      <description>Features include: Editorial: Let's Go Again; Rivers and Ophelia; Broadwaves: Primeval; We Make our Own Path; Interview: Abbeyshot; The Terraformers: Episode 11: Catastrophe at Black Rock; Music Section: It Was Good For You Too (album version)</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/158</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/158#0</guid>
+      <pubDate>Tue, 26 Jan 2010 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_601_20100126.mp3" length="52298334" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 5, Episode 22: The First Rule of Flying</title>
+      <description>Features include: Music Section: Austin Browncoats Video Theme; Music Section: In the Black; Music Section: Did you See Serenity?; Music Section: Air through the Engine; Music Section: Jayne's Hat; Music Section: Into the Black; Music Section: Captain Mal; Music Section: I'm on Firefly; Music Section: Monahanns Mudder's Milk; Music Section: Evil Laugh; Music Section: Summer Glau; Music Section: Drama On The Prairie; Music Section: Book2B; Music Section: Missing Part; Music Section: She Said Her Name was Saffron; Music Section: The Hero of Canton (new arrangement); Music Section: Kaylee; Music Section: It Was Good For You Too; Music Section: Mal's Song</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/157</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/157#0</guid>
+      <pubDate>Wed, 23 Dec 2009 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_522_20091223.mp3" length="42710977" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 5, Episode 21: Holiday Special</title>
+      <description>Features include: Broadwaves: Dollhouse, season 1; Music Section: Spoiler Alert; Interview: QMx; Borderline: Santo (revisited); Badger's World: Episode 27: 'Tis the Season; Heart of Firefly: Playing Parts; Diary of a Companion: Part 8; Serenity Speculation: River That Was; Killer Angels and Dust Devils; Music Section: Reels; The Terraformers: Episode 10: It Came from Beneath; They've All Got Stories: YoSaffBridg; Xie xie, Browncoats</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/156</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/156#0</guid>
+      <pubDate>Tue, 08 Dec 2009 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_521_20091208.mp3" length="97811623" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 5, Episode 20</title>
+      <description>Features include: Broadwaves: Lost in Austen; Diary of a Companion: Part 7; What's in a Signal?: The Glue; They've All Got Stories: The Bad Doctor; Heart of Firefly: Finding a Home; Music Section: Missing Part</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/155</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/155#0</guid>
+      <pubDate>Tue, 24 Nov 2009 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_520_20091124.mp3" length="53095529" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 5, Episode 19</title>
+      <description>Features include: Diary of a Companion: Part 6; Interview: The Browncoats; The Terraformers: Episode 9: Ghost Moon; Music Section: The Hero of Canton; What's Your Serenity?: VI; Love Keeps Her In the Air</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/154</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/154#0</guid>
+      <pubDate>Tue, 10 Nov 2009 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_519_20091110.mp3" length="50870209" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 5, Episode 18</title>
+      <description>Features include: All That Was Missing Was the Hot Cheese; Mal and St Crispian; Benefits of a Ragtag Crew; The Conversion Story: A Browncoat Badge of Honor; Broadwaves: Blackadder</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/153</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/153#0</guid>
+      <pubDate>Tue, 27 Oct 2009 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_518_20091027.mp3" length="44741136" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 5, Episode 17</title>
+      <description>Features include: Editorial: Firefly Fandom in the era of Dollhouse; Heart of Firefly: Fitting In; Diary of a Companion: Part 5; Broadwaves: Deadwood; Robots are Great</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/152</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/152#0</guid>
+      <pubDate>Tue, 13 Oct 2009 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_517_20091013.mp3" length="43035400" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 5, Episode 16</title>
+      <description>Features include: Editorial: A Moment of Quiet Reflection and Great Dedication; Heart of Firefly: The Rules of Civilization; It's My Life; Warrior Woman and Childlike Pilot; Broadwaves: Corner Gas; They've All Got Stories: Simon Tam: A Brother's Love; Music Section: She Said Her Name was Saffron</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/151</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/151#0</guid>
+      <pubDate>Tue, 06 Oct 2009 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_516_20091006.mp3" length="43656965" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 5, Episode 15.5: Live at Dragon*Con 2009</title>
+      <description>Features include: Browncoats Redemption Update; QMx Update; The Terraformers: Episode 0: Attack of the Crazy, Demented, Killer Training Instructor; Music Section: Monaghan Mother's Milk; Music Section: Suzannah; Browncoat Ball Update; How Brown is your Browncoat?</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/150</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/150#0</guid>
+      <pubDate>Tue, 29 Sep 2009 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_515.5_20090929.mp3" length="50096170" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 5, Episode 15</title>
+      <description>Features include: Music Section: Albatross; Borderline: Hera (revisited); Diary of a Companion: Part 4; They've All Got Stories: Jubal Early; Heart of Firefly: A Place in the Middle; The Terraformers: Episode 8: Secrets of the Deep; Companions of Both Sexes</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/149</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/149#0</guid>
+      <pubDate>Tue, 15 Sep 2009 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_515_20090915.mp3" length="52325334" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 5, Episode 14.9: The Counterfeit Companion</title>
+      <description>Features include: Borderline: The Counterfeit Companion</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/148</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/148#0</guid>
+      <pubDate>Tue, 08 Sep 2009 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_514.9_20090908.mp3" length="41224673" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 5, Episode 14.8: Sending a Signal</title>
+      <description>Features include: Sending a Signal</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/147</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/147#0</guid>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_514.8_20090901.mp3" length="41058829" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 5, Episode 14.7: The Clip Show</title>
+      <description>Features include: Thoughts of Firefly: Greg Edmonson, the composer of Firefly; Fantasy Firefly: Reaver Recipes; Music Section: What you Don't Know; The Idiot's Guide to Conversion; Badger's World: Episode 501: Slings and Arrows; Borderline: Cortex Talk</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/146</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/146#0</guid>
+      <pubDate>Tue, 25 Aug 2009 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_514.7_20090825.mp3" length="43286752" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 5, Episode 14.6: Doctor Horrible's Singalong Blog Cross-Podcast Crew Chat</title>
+      <description>Features include: Cross-Podcast crew chat; Bad Horse</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/145</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/145#0</guid>
+      <pubDate>Tue, 18 Aug 2009 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_514.6_20090818.mp3" length="37483624" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 5, Episode 14.5: Browncoat Ball Special</title>
+      <description>Features include: Interview: Dae Low</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/144</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/144#0</guid>
+      <pubDate>Tue, 11 Aug 2009 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_514.5_20090811.mp3" length="24044356" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 5, Episode 14</title>
+      <description>Features include: CSTS: How The Old Timers Keep The Romance Alive; Pairs and Plot Hooks; No More Running; Can't Pick Just One; Broadwaves: House; Around the 'Verse in 80 Days: Persephone</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/143</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/143#0</guid>
+      <pubDate>Tue, 04 Aug 2009 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_514_20090804.mp3" length="47838563" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 5, Episode 13</title>
+      <description>Features include: The Best Days; Interview: Andy Gore; The Terraformers: Episode 7: Vandals!; Music Section: Open Letter To My Captain</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/142</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/142#0</guid>
+      <pubDate>Tue, 21 Jul 2009 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_513_20090721.mp3" length="50840161" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 5, Episode 12.5: JC Hutchins Interview</title>
+      <description>Features include: Interview: JC Hutchins</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/141</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/141#0</guid>
+      <pubDate>Tue, 14 Jul 2009 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_512.5_20090714.mp3" length="36890018" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 5, Episode 12</title>
+      <description>Features include: Around the 'Verse in 80 Days: Ariel; Interview: Phil Rossi; Broadwaves: Eleventh Hour; What's in a Signal?: Music Section; Music Section: Inara's Lament</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/140</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/140#0</guid>
+      <pubDate>Tue, 07 Jul 2009 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_512_20090707.mp3" length="57171487" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 5, Episode 11</title>
+      <description>Features include: Interview: Anne Barringer; The Terraformers: Episode 6: A Tale of Deliverance; Music Section: Can't Stop the Signal; Diary of a Companion: Part 3; The Costumes Make the Man</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/139</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/139#0</guid>
+      <pubDate>Tue, 23 Jun 2009 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_511_20090623.mp3" length="855" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 5, Episode 10</title>
+      <description>Features include: Niches Be Damned; Broadwaves: Charlie Jade; Can't Stop the Serenity: Looking at the New Kids on the Block; What's in a Signal?: Special Features; Robin Hood and His Merry Men?; Serenity Speculation: Why a Shepherd?</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/138</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/138#0</guid>
+      <pubDate>Tue, 02 Jun 2009 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_510_20090602.mp3" length="45488567" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 5, Episode 9</title>
+      <description>Features include: Diary of a Companion: Part 2; Interview: Bellflower CGI; Editorial: FanFic Junkie</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/137</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/137#0</guid>
+      <pubDate>Tue, 19 May 2009 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_509_20090519.mp3" length="51232496" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 5, Episode 8</title>
+      <description>Features include: Diary of a Companion: Part 1; Discussion about Joss at Harvard: An Attendees View; Broadwaves: The West Wing; The Terraformers: Episode 4: Trapped!; Music Section: Good Answer; Around the 'Verse in 80 Days: Londinium</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/136</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/136#0</guid>
+      <pubDate>Tue, 05 May 2009 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_508_20090505.mp3" length="47752174" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 5, Episode 7</title>
+      <description>Features include: The State of Serenity; An Afternoon with Jewel Staite; Interview: Browncoats: Redemption; Music Section: Firefly Browncoat Theme; Broadwaves: La Femme Nikita</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/135</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/135#0</guid>
+      <pubDate>Tue, 21 Apr 2009 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_507_20090421.mp3" length="54682668" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 5, Episode 6</title>
+      <description>Features include: The Terraformers: Episode 3: Invasion of the Killer Squirrels; Trend Spotting: Serenity and the TV Show Movie; Interview: Bentley Ousley of Bellflower; Heart of Firefly: Glorious Surprises; Serenity Speculation: The Last Days of Earth that Was; Music Section: Bellflower Medley 2</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/134</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/134#0</guid>
+      <pubDate>Tue, 07 Apr 2009 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_506_20090407.mp3" length="52006536" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 5, Episode 5</title>
+      <description>Features include: Editorial: Jayne's Hat; Broadwaves: Neverwhere; They've All Got Stories: Zoë Washburne: Tough But Not Hard; What's in a Signal?: The Tale of the 'Verse; The Terraformers: Episode 2: Terror of the Bug-Eyed Monster; Music Section: Of Mercy</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/133</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/133#0</guid>
+      <pubDate>Tue, 24 Mar 2009 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_505_20090324.mp3" length="46497541" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 5, Episode 4</title>
+      <description>Features include: The Search For Serenity; Interview: Sonny Rhodes; Don't Let Their Perfection Fool You: Firefly's Women and Feminism; Here be Dragons; Music Section: Can't Dance Boogie</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/132</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/132#0</guid>
+      <pubDate>Tue, 10 Mar 2009 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_504_20090310.mp3" length="50459794" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 5, Episode 3</title>
+      <description>Features include: Interview: MJ and Bentley of Bellflower; Firefly BluRay Review; Music Section: Bellflower Medley; They've All Got Stories: Sunshine of the 'Verse; Dollhouse Screening Review</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/131</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/131#0</guid>
+      <pubDate>Tue, 24 Feb 2009 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_503_20090224.mp3" length="46359301" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 5, Episode 2</title>
+      <description>Features include: Editorial: Where in The Verse are You?; The More Things Change; What's in a Signal?: Badger's World; They've All Got Stories: Why doesn’t Shepherd Book read like an open book?; The Terraformers: Episode 1: Aliens; The Map of The 'Verse Review; Music Section: Ode To Vera</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/130</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/130#0</guid>
+      <pubDate>Tue, 10 Feb 2009 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_502_20090210.mp3" length="42725648" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 5, Episode 1</title>
+      <description>Features include: A Thousand Words; How Did I Fall in Love with a Ship?; Broadwaves: Secret Army; Music Section: Apprentice</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/129</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/129#0</guid>
+      <pubDate>Tue, 27 Jan 2009 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_501_20090127.mp3" length="50454152" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 4, Episode 23.5</title>
+      <description>Features include: The Train Job (Musical version)</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/128</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/128#0</guid>
+      <pubDate>Tue, 23 Dec 2008 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_423.5_20081223.mp3" length="21981811" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 4, Episode 23: Holiday Special</title>
+      <description>Features include: Stepping Up to the Plate: Back to Basics; Music Section: The Chef they call Jayne; Interview: Beth Nelson; Can't Stop the Cheesecake; What's Your Cheesecake?; Badger's World: Episode 26: Beginnings, part 2; Big Damn Test Kitchen: Cheesecake; Cheesecake Sightings: Body and Soul; Les on Cheesecake; The Terraformers: Episode 5: Attack of the Space Pirates; Cheesy Pun Fest: The Movies; Music Section: Cheesecake</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/127</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/127#0</guid>
+      <pubDate>Tue, 09 Dec 2008 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_423_20081209.mp3" length="65794278" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 4, Episode 22</title>
+      <description>Features include: What's Your Serenity?: V; Interview: Marian Call and Andy Gore; The Tale of the 'Verse: How the 'Verse will End; Music Section: In the Black; Badger's World: Episode 25: Beginnings, part 1</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/126</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/126#0</guid>
+      <pubDate>Tue, 25 Nov 2008 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_422_20081125.mp3" length="51000926" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 4, Episode 21</title>
+      <description>Features include: Music Section: Mal's Song; Kaylee Maquette Review; Interview: Andy Gore; Badger's World: Episode 24: Pigeons; What's in a Signal?: Sci-Fi Review</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/125</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/125#0</guid>
+      <pubDate>Tue, 18 Nov 2008 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_421_20081118.mp3" length="37444942" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 4, Episode 20.5</title>
+      <description>Features include: The Signal Live from Dragon*Con 2008 starts; Music Section: Celtic music; Badger's World: Episode 20.5: Live!; Serenity Prints Collection; Anticipating a Shepherd's Tale; Music Section: song premier</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/124</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/124#0</guid>
+      <pubDate>Tue, 11 Nov 2008 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_420.5_20081111.mp3" length="60444712" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 4, Episode 20</title>
+      <description>Features include: Anatomy of a Signal; Interview: Nathan Town; The Sci-Fi Review: Pushing Daisies; Badger's World: Episode 23: The Noob</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/123</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/123#0</guid>
+      <pubDate>Tue, 04 Nov 2008 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_420_20081104.mp3" length="48276564" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 4, Episode 19</title>
+      <description>Features include: Dragon*Con 2008 Report; All That's Decent And Nice; The Sci-Fi Review: Star Trek: The Next Generation; Serenity Speculation: Dude, Where's My Planet?; Music Section: Missing Part; Badger's World: Episode 22: Posh</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/122</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/122#0</guid>
+      <pubDate>Tue, 21 Oct 2008 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_419_20081021.mp3" length="50467793" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 4, Episode 18</title>
+      <description>Features include: Serenity Speculation: Preserving; Editorial: Thoughts from the Rim; The Sci-Fi Review: Terminator: The Sarah Connor Chronicles; Codename Kestrel; The Tale of the 'Verse: Sic Itur Ad Astra; Music Section: Summer Glau; Badger's World: Episode 21: Omens; They've All Got Stories: Inara: Mistress of Mystery</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/121</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/121#0</guid>
+      <pubDate>Tue, 07 Oct 2008 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_418_20081007.mp3" length="52577677" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 4, Episode 17</title>
+      <description>Features include: Crooked Little Vein review; QMx and Big Haul Giveaway; The Very Shiny Announcement; Signal LIVE Recording part 2; The Sci-Fi Review: The Office, An American Workplace; Music Section: War Is Bad</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/120</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/120#0</guid>
+      <pubDate>Tue, 23 Sep 2008 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_417_20080923.mp3" length="52432227" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 4, Episode 16</title>
+      <description>Features include: A review of Steven Brust's &quot;My Kind of Freedom&quot;; Interview: Steven Brust</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/119</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/119#0</guid>
+      <pubDate>Tue, 09 Sep 2008 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_416_20080909.mp3" length="44279829" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 4, Episode 15.5</title>
+      <description>Features include: Interview: Jack Ward and Shannon Hilchie; Dragon*Con Update</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/118</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/118#0</guid>
+      <pubDate>Tue, 26 Aug 2008 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_415.5_20080826.mp3" length="41959215" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 4, Episode 15</title>
+      <description>Features include: Coffee in the 'Verse; Editorial: The Light That Burns Half as Long...; Sex and the Special Hell; The Sci-Fi Review: Sapphire and Steel; Serenity Speculation: Where are the Fireflies?; Music Section: Can't Stop the Oaty Bar; They've All Got Stories: Badger - Dodgy Geezer or Misunderstood Philanthropist?</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/117</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/117#0</guid>
+      <pubDate>Tue, 12 Aug 2008 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_415_20080812.mp3" length="50781184" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 4, Episode 14</title>
+      <description>Features include: The Sci-Fi Review: Indiana Jones; Editorial: How is Firefly?; They've All Got Stories: Can't Take the Sky From Me; Serenity Speculation: Tea in the 'Verse; Read the Script; The Tale of the 'Verse: Weather and Water; Bold Moves: Interview - Jamie Chambers of MWP; Music Section: Monahanns Mudder's Milk</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/116</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/116#0</guid>
+      <pubDate>Tue, 29 Jul 2008 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_414_20080729.mp3" length="66147766" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 4, Episode 13.5</title>
+      <description>Features include: The Browncoats' Wish List; Interview: Jason Palmer; Music Section: Drake's Eulogy</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/115</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/115#0</guid>
+      <pubDate>Tue, 22 Jul 2008 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_413.5_20080722.mp3" length="24207757" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 4, Episode 13</title>
+      <description>Features include: QMx and Big Haul Giveaway; Interview: California Browncoats; Moonbrained Mike: Going out of Business; The Sci-Fi Review: The Tripods; Fighting In Firefly, part 2: Stage Combat</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/114</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/114#0</guid>
+      <pubDate>Tue, 15 Jul 2008 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_413_20080715.mp3" length="51188381" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 4, Episode 12</title>
+      <description>Features include: Review of Ben Mund's QMx Serenity Valley Lithograph; Interview: Andy Gore; What's Your Serenity?: IV; They've All Got Stories: Jayne's Morality; Joss's new summer release: Dr. Horrible's Sing-Along Blog</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/113</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/113#0</guid>
+      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_412_20080701.mp3" length="51869236" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 4, Episode 11</title>
+      <description>Features include: The Sci-Fi Review: Angel; Dollhouse Trailer; Big Damn Test Kitchen: Chicken Korma; Music Section: The Volvo Song; Serenity Speculation: 'Verse Entertainment; They've All Got Stories: River's Reading Habits; Bold Moves: Browncoat Captains; Badger's World: Episode 20: Convention</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/112</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/112#0</guid>
+      <pubDate>Tue, 17 Jun 2008 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_411_20080617.mp3" length="49569311" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 4, Episode 10.5</title>
+      <description>Features include: Crew Chat: Better Days; Serenity Speculation: The Aries Commonwealth; Dollhouse Trailer</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/111</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/111#0</guid>
+      <pubDate>Tue, 03 Jun 2008 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_410.5_20080603.mp3" length="47448064" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 4, Episode 10</title>
+      <description>Features include: Badger's World: Episode 19: Lights Out; Interview: Beth Nelson; The Sci-Fi Review: Father Ted; Serenity Speculation: Training The Browncoats, part 2; Big Damn Test Kitchen: Fresh Bao III</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/110</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/110#0</guid>
+      <pubDate>Tue, 27 May 2008 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_410_20080527.mp3" length="53005563" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 4, Episode 9</title>
+      <description>Features include: Firefly: The Happy Dystopia; CSTS: The Phantom Screenings; Serenity Speculation: Training the Browncoats; The Tale of the 'Verse: Bringing the Worlds to Life; Fighting in Firefly, Part One; Serenity Speculation: Advertising in the 'Verse</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/109</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/109#0</guid>
+      <pubDate>Tue, 13 May 2008 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_409_20080513.mp3" length="43976704" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 4, Episode 8</title>
+      <description>Features include: Editorial: Why Firefly?; The Sci-Fi Review: Randall and Hopkirk (Deceased); Vera: Jayne's Very Favorite Gun; Music Section: Vera Flew The Coop; Serenity Complete 2008 Con Report</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/108</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/108#0</guid>
+      <pubDate>Tue, 29 Apr 2008 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_408_20080429.mp3" length="49191267" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 4, Episode 7</title>
+      <description>Features include: What's Your Serenity?: III; Serenity Speculation: Creating the Browncoats; Bold Moves: Free-Form Roleplaying; Badger's World: Episode 18: Coffeeee!; The Sci-Fi Review: Blood Ties; Editorial: Where the Writers Go</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/107</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/107#0</guid>
+      <pubDate>Tue, 15 Apr 2008 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_407_20080415.mp3" length="53318719" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 4, Episode 6</title>
+      <description>Features include: The Firefly Dialect; Interview: Scott Allie; Music Section: Uncharted Theme</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/106</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/106#0</guid>
+      <pubDate>Tue, 01 Apr 2008 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_406_20080401.mp3" length="50925380" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 4, Episode 5</title>
+      <description>Features include: Shindiggery; The Tale of the 'Verse: Making Planets; The Sci-Fi Review: Roswell; Serenity Speculation: The Tams' Society; Music Section: Evil Laugh; Badger's World: Episode 17: Ink; Bold Moves: Fleshing out the factions - Hidel Audding</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/105</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/105#0</guid>
+      <pubDate>Tue, 18 Mar 2008 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_405_20080318.mp3" length="52092113" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 4, Episode 4</title>
+      <description>Features include: What's Your Serenity?: II; The Sci-Fi Review: Numb3rs; Serenity Speculation: Family Values; The Case for Comics; Big Damn Test Kitchen: Cargo Bay Rice and Beans; Music Section: Book2B</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/104</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/104#0</guid>
+      <pubDate>Tue, 04 Mar 2008 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_404_20080304.mp3" length="50414111" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 4, Episode 3</title>
+      <description>Features include: Conversion Season; Serenity Speculation: Red Sun; Music Section: Praise to Joss Whedon; The Sci-Fi Review: Stargate: Atlantis; Badger's World: Episode 16: Downtime; Bold Moves: Politics in the 'verse and Your Game; Guns of the Verse; Big Damn Test Kitchen: Ma Cobb's Garlic-Chicken Soup; Music Section: Jayne's Hat</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/103</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/103#0</guid>
+      <pubDate>Tue, 19 Feb 2008 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_403_20080219.mp3" length="45148766" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 4, Episode 2</title>
+      <description>Features include: Badger's World: Episode 15: Sick; Science versus Ideology in Joss Whedon's Firefly; What's Your Serenity?: I; The Sci-Fi Review: Jeremiah; Big Damn Test Kitchen: Non-Alcoholic Drinks</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/102</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/102#0</guid>
+      <pubDate>Tue, 05 Feb 2008 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_402_20080205.mp3" length="38596315" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 4, Episode 1</title>
+      <description>Features include: Editorial: Revisiting The 'Verse; The Sci-Fi Review: Survivors; Badger's World: Episode 14: After The Fall; Bold Moves: Gen Con MWP Interview; Big Damn Test Kitchen: Alcoholic Beverages; Picking The Tunes; Music Section: It Was Good For You Too</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/101</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/101#0</guid>
+      <pubDate>Tue, 22 Jan 2008 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_401_20080122.mp3" length="53175463" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 3, Episode 23.5: Persephone Pickers Special</title>
+      <description>Features include: Interview: The Persephone Pickers; Real Life Roleplaying</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/100</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/100#0</guid>
+      <pubDate>Thu, 20 Dec 2007 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_323.5_20071220.mp3" length="52600539" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 3, Episode 23</title>
+      <description>Features include: Recollections: Kevin; Recollections: James; From Firefly to Future; Recollections: Les and Kari; The Aries Commonwealth; Recollections: David; Elizabeth Adams and Malcolm Reynolds; The Sci-Fi Review: Seventh Son; Recollections: Claire; Moonshine: Episode 6: The Gentlemen with the Blue Hands; Music Section: Origins; Recollections: Miranda; Music Section: Gaza Strip Mall; Recollections: Nick; Permanent Waves; Recollections: Carolyn; Interview: George Hrab; Robot Chicken Extract</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/99</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/99#0</guid>
+      <pubDate>Thu, 06 Dec 2007 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_323_20071206.mp3" length="70786236" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 3, Episode 22</title>
+      <description>Features include: Big Damn Test Kitchen: Big Damn Heroes' Feast; Interview: Jane Espenson; Music Section: Nate's Theme; Badger's World: Episode 13: The End?; Moonbrained Mike: Christmas; Moonshine: Episode 5: Shadowed Woman</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/98</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/98#0</guid>
+      <pubDate>Thu, 22 Nov 2007 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_322_20071122.mp3" length="53364109" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 3, Episode 21</title>
+      <description>Features include: Serenity Found, a Review; A Proud and Lonely Thing; Moonshine: Episode 4: Academy of Murder; The Sci-Fi Review: The Adventures of Brisco County Junior; Music Section: Drama On The Prairie; Badger's World: Episode 12: Special Delivery</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/97</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/97#0</guid>
+      <pubDate>Thu, 08 Nov 2007 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_321_20071108.mp3" length="39694106" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 3, Episode 20</title>
+      <description>Features include: Big Damn Test Kitchen: A Tale of Two Baos, Part 2; QMx Malcolm Reynolds Stunt Pistol Replica Review; Interview: QMx; Serenity Speculation: Blackout Zone; Badger's World: Episode 11: Laydeez; Moonbrained Mike: End of Season Sale; Music Section: Did you See Serenity?; QMx Blueprints Reference Pack Review</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/96</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/96#0</guid>
+      <pubDate>Thu, 25 Oct 2007 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_320_20071025.mp3" length="53346346" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 3, Episode 19</title>
+      <description>Features include: Interview: Brian Wiser; The Sci-Fi Review: Spaced; Inside Serenity: Kaylee's Log; Music Section: I'm on Firefly; Badger's World: Episode 10: Teef; Bold Moves: Shared Game Creation</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/95</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/95#0</guid>
+      <pubDate>Thu, 11 Oct 2007 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_319_20071011.mp3" length="52448549" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 3, Episode 18</title>
+      <description>Features include: Moonshine: Episode 3: Darkling River; Interview: PJ Haarsma; The Sci-Fi Review: Robin of Sherwood; Badger's World: Episode 9: Prodigal</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/94</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/94#0</guid>
+      <pubDate>Thu, 27 Sep 2007 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_318_20070927.mp3" length="53086312" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 3, Episode 17</title>
+      <description>Features include: Music Section: She Said Her Name was Saffron; Music Section: Exclamation!; Big Damn Test Kitchen: Grunt; Interview: Brian Wiser; Music Section: Johnny Jump Up; Music Section: Kaylee; Interview: Tabz; Live Question and Answer Session</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/93</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/93#0</guid>
+      <pubDate>Thu, 13 Sep 2007 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_317_20070913.mp3" length="52358813" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 3, Episode 16</title>
+      <description>Features include: Bold Moves: Plot Points and Enriching Your Game; Interview: Martin Firrell; The Sci-Fi Review: ReBoot; Badger's World: Episode 8: Food; Music Section: Austin Browncoats Video Theme; Big Damn Test Kitchen: A Tale of Two Baos, Part 1</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/92</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/92#0</guid>
+      <pubDate>Thu, 30 Aug 2007 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_316_20070830.mp3" length="53368769" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 3, Episode 15</title>
+      <description>Features include: Interview: QMx; Serenity Speculation: The Academy; Inside Serenity: Boost Your Boat</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/91</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/91#0</guid>
+      <pubDate>Thu, 16 Aug 2007 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_315_20070816.mp3" length="53102090" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 3, Episode 14</title>
+      <description>Features include: Screening Report; The Sci-Fi Review: Odyssey 5; Music Section: Air through the Engine; Badger's World: Episode 7: Dirt; Moonshine: Episode 2: The Mysterious Doctor; Chen, Chen and Shaw: Attorneys at Law; What I'd like to see in the Big Damn Trilogy</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/90</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/90#0</guid>
+      <pubDate>Thu, 02 Aug 2007 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_314_20070802.mp3" length="53340160" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 3, Episode 13.5</title>
+      <description>Features include: Interview: Wayne Hutchinson</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/89</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/89#0</guid>
+      <pubDate>Sat, 28 Jul 2007 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_313.5_20070728.mp3" length="32451041" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 3, Episode 13</title>
+      <description>Features include: Serenity Speculation: The Cortex; Interview: Into the Black; Signal Promo: Borderline</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/88</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/88#0</guid>
+      <pubDate>Thu, 19 Jul 2007 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_313_20070719.mp3" length="51497378" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 3, Episode 12</title>
+      <description>Features include: Moonbrained Mike: Spring Cleaning Sale; Review of Firefly: The Official Companion; Interview: JC Hutchins; Badger's World: Episode 6: Revenge; Music Section: Smoke Spirit; Moonshine: Episode 1: Blue Sun Blues</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/87</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/87#0</guid>
+      <pubDate>Thu, 05 Jul 2007 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_312_20070705.mp3" length="52923037" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 3, Episode 11.5</title>
+      <description>Features include: Interview: Can't Stop the Serenity; Music Section: Can't Stop the Signal</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/86</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/86#0</guid>
+      <pubDate>Thu, 21 Jun 2007 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_311.5_20070621.mp3" length="18217963" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 3, Episode 11</title>
+      <description>Features include: Badger's World: Episode 5: Anxiety; Big Damn Test Kitchen: Hot Cheese; Serenity Speculation: Families; The Sci-Fi Review: Star Trek: The Original Series; Music Section: Captain Mal; Borderline: Paquin</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/85</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/85#0</guid>
+      <pubDate>Thu, 07 Jun 2007 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_311_20070607.mp3" length="52969409" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 3, Episode 10</title>
+      <description>Features include: Serenity Blueprint Review; The Sci-Fi Review: The Hitchhikers' Guide to the Galaxy; Borderline: Hera; Inside Serenity: Evolution of a Firefly</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/84</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/84#0</guid>
+      <pubDate>Thu, 24 May 2007 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_310_20070524.mp3" length="51881712" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 3, Episode 9</title>
+      <description>Features include: Interview: Bellflower; Big Damn Test Kitchen: Londinium Vegetable Curry; Badger's World: Episode 4: Conversations with Drunk People; Bold Moves: Technology in the 'Verse; Music Section: Book's Farewell; White Noise 2 Clip</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/83</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/83#0</guid>
+      <pubDate>Thu, 10 May 2007 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_309_20070510.mp3" length="47611862" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 3, Episode 8</title>
+      <description>Features include: Big Damn Test Kitchen: Kaylee Cake; RockyPod; Serenity Speculation: What Happened to Earth-That-Was; Badger's World: Episode 3: Déjà Vu; Bold Moves: Adventure; Whedon Track at Dragon*Con; Borderline: Ezra</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/82</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/82#0</guid>
+      <pubDate>Thu, 26 Apr 2007 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_308_20070426.mp3" length="50717633" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 3, Episode 7</title>
+      <description>Features include: Serenity Speculation: Grav Boots and World Building; Big Damn Test Kitchen: Pickled Protein; Moonbrained Mike: Spaceship Bazaar; The Oldest Profession in the 'Verse; Badger's World: Episode 2: Philosophy; Bold Moves: Inspiration; The Sci-Fi Review: Hex; Music Section: Mason Rocket (Spy Extraordinaire)</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/81</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/81#0</guid>
+      <pubDate>Thu, 12 Apr 2007 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_307_20070412.mp3" length="53239912" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 3, Episode 6</title>
+      <description>Features include: Bold Moves: Role Playing in the 'Verse; Badger's World: Episode 1: Reasonable; Interview: QMx; The Sci-Fi Review: Red Dwarf; Borderline: Shadow (revisited); Music Section: Into the Black</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/80</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/80#0</guid>
+      <pubDate>Thu, 29 Mar 2007 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_306_20070329.mp3" length="53197155" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 3, Episode 5</title>
+      <description>Features include: Music Section: Good Answer; Borderline: Angel; Interview: Old Wounds; Shepherd Book Revisited</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/79</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/79#0</guid>
+      <pubDate>Thu, 15 Mar 2007 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_305_20070315.mp3" length="53355018" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 3, Episode 4</title>
+      <description>Features include: Music Section: Approaching the Training House; What if we Don't?; Interview: Big Damn Chefs; Big Damn Test Kitchen: Too Gorram Easy Baked Fish and Chicken Throw-Together Wraps; Serenity Speculation: Gangstas in da 'Verse</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/78</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/78#0</guid>
+      <pubDate>Thu, 01 Mar 2007 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_304_20070301.mp3" length="51942818" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 3, Episode 3</title>
+      <description>Features include: Music Section: The Maidenhead; Downtime: Gun Safety; Everything Looks Good from Here; Serenity Speculation: The Geography of the 'Verse; Borderline: Jiangyin; The Sci-Fi Review: Dead Like Me</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/77</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/77#0</guid>
+      <pubDate>Thu, 15 Feb 2007 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_303_20070215.mp3" length="51868860" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 3, Episode 2</title>
+      <description>Features include: Big Damn Chefs Review; Interview: Multiverse; The Sci-Fi Review: Star Wars</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/76</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/76#0</guid>
+      <pubDate>Thu, 01 Feb 2007 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_302_20070201.mp3" length="52962367" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 3, Episode 1.6</title>
+      <description>Features include: ; Episode Chat</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/75</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/75#0</guid>
+      <pubDate>Wed, 31 Jan 2007 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_301.6_20070131.mp3" length="15070130" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 3, Episode 1.5</title>
+      <description>Features include: ; Episode Chat</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/74</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/74#0</guid>
+      <pubDate>Tue, 30 Jan 2007 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_301.5_20070130.mp3" length="14978832" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 3, Episode 1</title>
+      <description>Features include: Browncoats Backup Bash; Downtime: Dangerous Women; The Things that Last; Borderline: Athens; Music Section: The Hero of Canton (new arrangement); The Sci-Fi Review: Battlestar Galactica</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/73</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/73#0</guid>
+      <pubDate>Thu, 18 Jan 2007 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_301_20070118.mp3" length="53282252" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 2, Episode 24: Songs from the Black</title>
+      <description>Features include: Music Section: The Ballad of Serenity (cover); Music Section: Theme from Firefly: Old Wounds; Music Section: Unsere-Crew Serenity (in German); Music Section: In My Sky (Serenity); Music Section: Can't Stop the Signal; Music Section: Old Wounds: Reel Violin Only; Music Section: Kaylee's Lament; Music Section: To the Border; Music Section: River; Music Section: Serenity; Music Section: Hero of Canton; Music Section: The Theme from Mosquito; Music Section: This Land; Music Section: A Man Named Jayne; Music Section: Reaver; Music Section: Reavers; Music Section: Mal's Song; Music Section: The Ballad of Serenity (instrumental)</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/72</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/72#0</guid>
+      <pubDate>Wed, 20 Dec 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_224_20061220.mp3" length="33083726" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 2, Episode 23.5: The Money Show</title>
+      <description>Features include: QMx Money Pack Giveaway; QMx Money Review; Music Section: All That Has Come To Pass; Mousey Music</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/71</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/71#0</guid>
+      <pubDate>Wed, 13 Dec 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_223.5_20061213.mp3" length="21594384" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 2, Episode 23: Holiday Special</title>
+      <description>Features include: Music Section: This Land; Ops; Life Swap; The Sci-Fi Review: Pinky and the Brain; Rimline; Dear BDH: Dear River: Curious Scientist; Serenity Speculation: King Robin and the Cellphones; Firefly Pants; Captain Reynolds' Way: Lesson 5: Have a way, not a plan; Pinky and the Brain Holiday Theme Tune</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/70</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/70#0</guid>
+      <pubDate>Wed, 06 Dec 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_223_20061206.mp3" length="31445120" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 2, Episode 22</title>
+      <description>Features include: Borderline: Silverhold; A Browncoat Thank You; The Sci-Fi Review: Quantum Leap; Dear BDH: Dear Zoe: Undefended; Games and Sports in Firefly; Dear BDH: Dear Mal: The End; Music Section: Reavers; Carolyn sings the Quantum Leap theme song</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/69</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/69#0</guid>
+      <pubDate>Wed, 22 Nov 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_222_20061122.mp3" length="32216960" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 2, Episode 21</title>
+      <description>Features include: The Sci-Fi Review: Heroes; Dear BDH: Dear Doctor Tam: Worried Patient; Where are you Hiding, Little Girl?; The Name your own Contest Contest; Nathan Fillion on Seventh Son; Music Section: Crew of Serenity; Dear BDH: Dear Inara: Leery Dancer; Serenity Speculation: Other Immigrants to the 'Verse</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/68</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/68#0</guid>
+      <pubDate>Wed, 08 Nov 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_221_20061108.mp3" length="34713536" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 2, Episode 20</title>
+      <description>Features include: Dear BDH: Dear Shepherd Book: Powerless on Persephone; Borderline: Perth; Dear BDH: Dear Cap'n Reynolds: Free Bird; Interview: Done the Impossible; Music Review: Soundtrack to Done the Impossible; Music Section: Come to the Dance</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/67</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/67#0</guid>
+      <pubDate>Wed, 25 Oct 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_220_20061025.mp3" length="32612672" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 2, Episode 19</title>
+      <description>Features include: The Sci-Fi Review: Andromeda; Interview: Serenity Tales; Dear BDH: Dear Shepherd Book: Worried about my Kids; Serenity Speculation: History of the 'Verse; Borderline: Santo; Dear BDH: Dear Wash: Wrong Career Move</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/66</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/66#0</guid>
+      <pubDate>Wed, 11 Oct 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_219_20061011.mp3" length="33289472" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 2, Episode 18.5: Convention Wrapup</title>
+      <description>Features include: Serenity Cubed Report; Dragon*Con Wrapup; Music Section: At the Con</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/65</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/65#0</guid>
+      <pubDate>Wed, 04 Oct 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_218.5_20061004.mp3" length="33193472" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 2, Episode 18</title>
+      <description>Features include: The Case for a Sequel; Trampas's Letter to Universal; Interview: Andrew Dorfman and Jack Ward; Les's Letter to Universal; Music Section: Old Wounds: Reel Violin Only; Carolyn's Letter to Universal</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/64</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/64#0</guid>
+      <pubDate>Wed, 27 Sep 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_218_20060927.mp3" length="34230656" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 2, Episode 17</title>
+      <description>Features include: Interview: Tracy and Laura Hickman; Serenity Speculation: Music; Dear BDH: Dear Inara: Unified; Dear BDH: Dear Kaylee: Worried Mother; Borderline: Shadow; Dragon*Con Recap</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/63</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/63#0</guid>
+      <pubDate>Wed, 13 Sep 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_217_20060913.mp3" length="30809984" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 2, Episode 16.5: Live at Dragon*Con 2006</title>
+      <description>Features include: Guest Appearance; Firefly Mad-Libs; Serenity (the Ship); Music Section: Miscellaneous; Live Comments; The Hero of Canton Singalong</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/62</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/62#0</guid>
+      <pubDate>Wed, 06 Sep 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_216.5_20060906.mp3" length="30564992" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 2, Episode 16</title>
+      <description>Features include: Dear BDH: Dear Inara: Distraught; Interview: QMx; Music Section: The Sailor's Wife/Lads of Done; The Sci-Fi Review: Sliders; Dear BDH: Dear Jayne: Snake</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/61</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/61#0</guid>
+      <pubDate>Wed, 30 Aug 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_216_20060830.mp3" length="34476992" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 2, Episode 15</title>
+      <description>Features include: Done the Impossible DVD Review; Interview: The Firefly Music Project; Serenity Speculation: Medicine; Scott Sigler &quot;Ancestor&quot; segment; Firefly: Old Wounds Extract</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/60</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/60#0</guid>
+      <pubDate>Wed, 16 Aug 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_215_20060816.mp3" length="35228672" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 2, Episode 14</title>
+      <description>Features include: Music Section: Can't Stop the Signal; The Sci-Fi Review: Deep Space Nine; The Structure of Out of Gas; Serenity - the Early Script</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/59</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/59#0</guid>
+      <pubDate>Wed, 02 Aug 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_214_20060802.mp3" length="35797760" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 2, Episode 13</title>
+      <description>Features include: Interview: The One True B!x; Music Section: Theme from Firefly: Old Wounds; &quot;Infection&quot;/&quot;7th Son&quot; crossover promo; Tricks from the Training House: Control; Screening Feedback Segment; Happy Birthday Joss</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/58</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/58#0</guid>
+      <pubDate>Wed, 19 Jul 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_213_20060719.mp3" length="35080448" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 2, Episode 12</title>
+      <description>Features include: The Sci-Fi Review: The 4400; Virtual Firefly; Music Section: Serenity (guitar version); Tricks from the Training House: Seduction; The Migration; Appeal</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/57</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/57#0</guid>
+      <pubDate>Wed, 05 Jul 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_212_20060705.mp3" length="28947584" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 2, Episode 11.5</title>
+      <description>Features include: Music Section: To the Border; Music Section: Kaylee's Lament</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/56</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/56#0</guid>
+      <pubDate>Wed, 28 Jun 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_211.5_20060628.mp3" length="19310528" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 2, Episode 11</title>
+      <description>Features include: How Many Ls in Malco(l)m?; Rules of the 'Verse; Tricks from the Training House: Creativity; Response to Jill's Novelization article; Music Section: A Man Named Jayne</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/55</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/55#0</guid>
+      <pubDate>Wed, 21 Jun 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_211_20060621.mp3" length="34846016" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 2, Episode 10</title>
+      <description>Features include: Dance in Firefly; Music Section: River; The Sci-Fi Review: Doctor Who; Television's Changing Landscape; The Novelization Didn't do the Job; Tricks from the Training House: Elegance</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/54</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/54#0</guid>
+      <pubDate>Wed, 31 May 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_210_20060531.mp3" length="35514752" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 2, Episode 9</title>
+      <description>Features include: Tricks from the Training House: Control; The Hidden Depths of David Newman's Soundtrack; The Sci-Fi Review: Lost; Music Section: Unsere-Crew Serenity (in German)</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/53</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/53#0</guid>
+      <pubDate>Wed, 17 May 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_209_20060517.mp3" length="28984064" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 2, Episode 8</title>
+      <description>Features include: Conversions and Healing; The Two Serenities; The Sci-Fi Review: Farscape; Tricks from the Training House: Introduction; Music Section: Reaver</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/52</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/52#0</guid>
+      <pubDate>Wed, 03 May 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_208_20060503a.mp3" length="34518080" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 2, Episode 7</title>
+      <description>Features include: Adventures in Serenity: Part 5; The Sci-Fi Review: Buffy the Vampire Slayer; Music Section: Hero of Canton; DVD Differences</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/51</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/51#0</guid>
+      <pubDate>Wed, 19 Apr 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_207_20060419.mp3" length="30048704" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 2, Episode 6</title>
+      <description>Features include: Adventures in Serenity: Part 4; Simon; The Sci-Fi Review: Blake's 7; Canonicity: The Truth of the Signal; &quot;Fine bunch of reubens&quot; clip</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/50</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/50#0</guid>
+      <pubDate>Wed, 05 Apr 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_206_20060405.mp3" length="35516864" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 2, Episode 5</title>
+      <description>Features include: Captain Reynolds' Way: Lesson 4: Communication; Interview: David Newman; Seventh Son Bumper; The Sci-Fi Review: Stargate SG-1</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/49</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/49#0</guid>
+      <pubDate>Wed, 22 Mar 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_205_20060322.mp3" length="35403008" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 2, Episode 4</title>
+      <description>Features include: The Firefly Timeline; The Virtual Seasons; Music Section: River's Turn</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/48</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/48#0</guid>
+      <pubDate>Wed, 15 Mar 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_204_20060315.mp3" length="24754688" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 2, Episode 3</title>
+      <description>Features include: Music Section: In My Sky (Serenity); Andreas Katsulas Tribute; The Sci-Fi Review: Babylon 5; Adventures in Serenity: Part 3; Captain Reynolds' Way: Lesson 3: Getting the Most from your Employees</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/47</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/47#0</guid>
+      <pubDate>Wed, 01 Mar 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_203_20060301.mp3" length="35183744" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 2, Episode 2.5</title>
+      <description>Features include: Speaking Cool with Ease; Travel in the 'Verse: Miranda; Music Section: The Ballad of Serenity (movie version)</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/46</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/46#0</guid>
+      <pubDate>Tue, 28 Feb 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_202.5_20060228.mp3" length="11858240" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 2, Episode 2</title>
+      <description>Features include: Petty Thief with Delusions of Standing; Adventures in Serenity: Part 2; The Sci-Fi Review: Cowboy Bebop; Why Serenity?; Signal Promo: These are just a few of the segments we've recorded; Captain Reynolds' Way: Lesson 2: Teambuilding in the Black; Music Section: The Jubal Early Theme</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/45</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/45#0</guid>
+      <pubDate>Wed, 15 Feb 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_002_20060215.mp3" length="35375936" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 2, Episode 1</title>
+      <description>Features include: A Beginner's Guide to Serenity; Captain Reynolds' Way: Lesson 1: Selecting and Organizing a Strong Crew; The Sci-Fi Review: Firefly; Adventures in Serenity: Part 1; The Man they call Jayne; Music Section: The Hero of Canton (sans dialog); Music Section: The Ballad of Serenity (cover)</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/44</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/44#0</guid>
+      <pubDate>Wed, 01 Feb 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_001_20060201.mp3" length="34137664" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 1, Episode 17.5: January Bonus Show</title>
+      <description>Features include: BBC Film of the Year Top Ten; Les and Kari's interview with Podcast 411; Promo: Browncoat Radio; Music Section: Big Damn Trilogy</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/38</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/38#0</guid>
+      <pubDate>Wed, 04 Jan 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_017.5_20060104.mp3" length="22785792" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 1, Episode 17.3: Solstice Special, part 3</title>
+      <description>Features include: Previously; Intro; The Making of the Signal; Blue Sun Public Service Announcement: Miranda advertisement; Mudders' Milk advertisement; Those Left Behind: Part 3; Mudders' Milk How-To; The Signal Season 1 Gag Reel</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/37</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/37#0</guid>
+      <pubDate>Fri, 23 Dec 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_017_20051223.mp3" length="34655424" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 1, Episode 17.2: Solstice Special, part 2</title>
+      <description>Features include: Previously; Intro; Trivia Question - Tracy Hickman tries to stump you; Welcome to my Library; Musical Evolution: From Firefly to Serenity; Those Left Behind: Part 2; Deleted Scenes; Firefilk; Music Section: Big Damn Trilogy</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/36</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/36#0</guid>
+      <pubDate>Thu, 22 Dec 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_017_20051222.mp3" length="32363392" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 1, Episode 17.1: Solstice Special, part 1</title>
+      <description>Features include: Interview: Chris Buchanan; How to Speak Chinese; Our Mrs. Reynolds and Trash: the Saffron Arc; Those Left Behind: Part 1; Trivia Question - Tracy Hickman tries to stump you</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/35</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/35#0</guid>
+      <pubDate>Wed, 21 Dec 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_017_20051221.mp3" length="26249728" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 1, Episode 16.7: December Bonus Show</title>
+      <description>Features include: Interview: The Bedlam Bards; The Reaver Challenge; Signal Promo: These are just a few of the segments we've recorded; The Official Forum Purplebelly - a tribute to Rich Adams by the Signal Crew; Firefly Talk; A thank you from for getting us into the Podcast Pickle Hall of Fame</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/24</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/24#0</guid>
+      <pubDate>Wed, 07 Dec 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_016.7_20051207a.mp3" length="29459200" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 1, Episode 16.6: Bits of the Signal</title>
+      <description>Features include: How to Host a Shindig: Part 3; Blue Sun Public Service Announcement: Alliance Military Recruitment Campaign; Review of Serenity (the pilot); How to Speak Chinese; Interview: Morena Baccarin; Those Left Behind: Part 2; Music Section: Mal's Song</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/23</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/23#0</guid>
+      <pubDate>Wed, 30 Nov 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_016.6_20051130.mp3" length="31413504" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 1, Episode 16.5: November Bonus Show</title>
+      <description>Features include: The Browncoat Wish List; Serenity RPG; Firefly: A Soundtrack in Review; Blue Sun Public Service Announcement: Alliance News; The New Dynamic</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/22</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/22#0</guid>
+      <pubDate>Wed, 23 Nov 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_016.5_20051123.mp3" length="41800513" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 1, Episode 16</title>
+      <description>Features include: Done the Impossible: Part 4; How to Speak Chinese; River; Fruity Oaty Bar; Why Wash?; Music Section: The Ballad of Serenity (movie version)</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/21</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/21#0</guid>
+      <pubDate>Fri, 28 Oct 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_016_20051028.mp3" length="31555712" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 1, Episode 15</title>
+      <description>Features include: Interview: Tracy Hickman; Blue Sun Public Service Announcement: Alliance News; Done the Impossible: Part 3; Music Section: An extended version of &quot;Serenity&quot;; A Celebration of Firefly</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/20</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/20#0</guid>
+      <pubDate>Wed, 19 Oct 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_015_20051019.mp3" length="34505600" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 1, Episode 14.5: Spoilerful Bonus Show</title>
+      <description>Features include: Roundtable discussion of &quot;Serenity&quot;, the BDM; The Trial of Michael and Evo from &quot;Wingin' It&quot;</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/19</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/19#0</guid>
+      <pubDate>Sat, 15 Oct 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_serenity_talk.mp3" length="30745856" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 1, Episode 14</title>
+      <description>Features include: Why We Love Wash; How to Speak Chinese; Done the Impossible: Part 2; Blue Sun Public Service Announcement: Alliance News; From Earth-That-Was to the 'Verse; Music Section: Saffron's wedding music from &quot;Safe&quot;</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/18</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/18#0</guid>
+      <pubDate>Wed, 12 Oct 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_014_20051012.mp3" length="26580800" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 1, Episode 13</title>
+      <description>Features include: Music Section: Music from &quot;Bushwhacked&quot;, including River and Simon's spacewalk; Chinese Whispers - Shepherd Book's First Name; Spamalot Review; How to Speak Chinese; Interview: Keith R. A. DeCandido</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/17</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/17#0</guid>
+      <pubDate>Wed, 05 Oct 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_013_20051005.mp3" length="31622528" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 1, Episode 12.5: Dragon*Con 2005 Bonus Show</title>
+      <description>Features include: Browncoat Interview: Carmen; Memories of Dragon*Con; Browncoat Interview: Serenity; Browncoat Interview: Rob; Browncoat Interview: Heather; Interview: Nathan and Sandra Town; Browncoat Interview: Eric</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/16</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/16#0</guid>
+      <pubDate>Tue, 04 Oct 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_dc2005.mp3" length="34808576" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 1, Episode 12</title>
+      <description>Features include: Blue Sun Public Service Announcement: Care of Protein Packets; Interview: Morena Baccarin; Done the Impossible: Part 1; How to Speak Chinese; Music Section: Mal's Song; Blue, Grey, Purple, and Brown: Civil War Influences in Firefly</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/15</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/15#0</guid>
+      <pubDate>Wed, 28 Sep 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_012_20050928b.mp3" length="31155456" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 1, Episode 11</title>
+      <description>Features include: The Fifteenth Episode; How to Speak Chinese; Done the Impossible: Intro; Music Section: Bar music from &quot;The Train Job&quot;</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/14</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/14#0</guid>
+      <pubDate>Wed, 21 Sep 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_011_20050921a.mp3" length="28372288" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 1, Episode 10</title>
+      <description>Features include: Civilization and Solidarity: A Bushwhacked Review; How to Speak Chinese; Blue Sun Public Service Announcement: Scentsations commercial; Music Section: The Ballad of Serenity (instrumental); What's in a Name, part 2</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/13</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/13#0</guid>
+      <pubDate>Wed, 14 Sep 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_010_20050914.mp3" length="27568704" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 1, Episode 9</title>
+      <description>Features include: In Defense of &quot;The Train Job&quot;; How to Speak Chinese; Blue Sun Public Service Announcement: Pork Bao Recipe; The Science of Firefly, part 2; Music Section: Going Down with the Ship (from &quot;Out of Gas&quot;)</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/11</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/11#0</guid>
+      <pubDate>Wed, 07 Sep 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_009_20050907a.mp3" length="31028288" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 1, Episode 8.5</title>
+      <description>Features include: New York City Browncoats report on press screening of Serenity; Interview: Jewel Staite; Dragon*Con update</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/10</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/10#0</guid>
+      <pubDate>Wed, 31 Aug 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_003se_20050831.mp3" length="27344000" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 1, Episode 8</title>
+      <description>Features include: Kaylee, the Soul of Serenity; How to Speak Chinese; Blue Sun Public Service Announcement: Flavornix Commercial; What's in a Name, part 1; Music Section: Going for a Ride; Dragon*Con - Here's how it is; Those Left Behind: Part 2</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/9</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/9#0</guid>
+      <pubDate>Wed, 24 Aug 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_008_20050824a.mp3" length="23948544" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 1, Episode 7</title>
+      <description>Features include: The Science of Firefly; How to Host a Shindig: Part 5; Music Section: The Funeral music from &quot;The Message&quot;; Interview: Greg Edmonson</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/8</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/8#0</guid>
+      <pubDate>Wed, 17 Aug 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_007_20050817.mp3" length="31275776" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 1, Episode 6</title>
+      <description>Features include: Review of Serenity (the pilot); How to Host a Shindig: Part 4; Interview: Ron Glass; Blue Sun Public Service Announcement: Alliance Resettlement Commercial; Music Section: The Jubal Early Theme; How to Speak Chinese</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/7</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/7#0</guid>
+      <pubDate>Wed, 10 Aug 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_006_20050810.mp3" length="35588608" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 1, Episode 5</title>
+      <description>Features include: Interview: Gina Torres; How to Speak Chinese; Blue Sun Public Service Announcement: Alliance Military Recruitment Campaign; Food from the Edge; How to Host a Shindig: Part 3; Those Left Behind: Part 1</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/6</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/6#0</guid>
+      <pubDate>Wed, 03 Aug 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_005_20050803.mp3" length="36978688" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 1, Episode 4</title>
+      <description>Features include: Interview: Adam Baldwin; How to Speak Chinese; Blue Sun Public Service Announcement: Recruitment Commercial; How to Host a Shindig: Part 2; Music Section: Indian Chant</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/5</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/5#0</guid>
+      <pubDate>Wed, 27 Jul 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_004_20050727.mp3" length="31810752" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 1, Episode 3</title>
+      <description>Features include: Handsome Devils: Malcolm Reynolds and Han Solo; How to Speak Chinese; Blue Sun Public Service Announcement: Tragedy at New Macau; Who is Shepherd Book? - Epilogue; Music Section: Mal's Song; Interview: Michelle Dockrey; How to Host a Shindig: Part 1</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/4</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/4#0</guid>
+      <pubDate>Wed, 20 Jul 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_003_20050720.mp3" length="28480256" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 1, Episode 2.5</title>
+      <description>Features include: Review of Firefly Episode 1 (&quot;Serenity&quot;); A Mini-Episode to introduce The Signal</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/3</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/3#0</guid>
+      <pubDate>Wed, 13 Jul 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_002se_20050713.mp3" length="16440128" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 1, Episode 2</title>
+      <description>Features include: Who is Shepherd Book?; How to Make a 'Verse-worthy Costume on a Browncoat's Budget; How to Speak Chinese; Music Section: &quot;The Hero of Canton&quot;, from &quot;Jaynestown&quot;</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/2</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/2#0</guid>
+      <pubDate>Wed, 06 Jul 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_002_20050706a.mp3" length="44077098" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>The Signal: Season 1, Episode 1</title>
+      <description>Features include: What is Firefly?; Blue Sun Public Service Announcement: Wanted: River and Simon Tam; Can't Stop the Signal - How Serenity Cultivates Fandom; How to Speak Chinese; Music Section: River's Dance</description>
+      <link>https://www.serenityfirefly.com/mmx/show/view/1</link>
+      <guid isPermaLink="false">http://signal.serenityfirefly.com/mmx/show/view.php/1#0</guid>
+      <pubDate>Tue, 21 Jun 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://media.libsyn.com/media/thesignal/signal_001_20050621.mp3" length="37599566" type="audio/mpeg" />
+    </item>
+  </channel>
+</rss>

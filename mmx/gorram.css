@@ -1,0 +1,72 @@
+
+html { background-color: #664433; }
+body { background-color: #F4F4DF; color: #000000; }
+
+/*.album-art { border-color: #664433; }*/
+
+a:link { color: #61390A; }
+a:visited { color: #93540A; }
+a:active { color: #DD6900;  }
+a:hover { color: #DD6900; }
+
+a.time-simple { color: #000000; }
+
+.copy-zone { background-color: #EBE3D8; border-color: #61390A; }
+
+.button-link { border-color: #E1D4BF; }
+
+.green-message { border-color: #00FF00; background-color: #DDFFDD; }
+
+.grayed-out,.greyed-out { color: #908080; }
+
+.important { border-color: #FF0000; background-color: #E1D4BF; }
+
+.info { color: #664433; }
+
+.jump-target>td { border-top-color: red; }
+
+.orange-message { border-color: #FFA500; background-color: #FFD080; }
+
+.overdue { background-color: #FF8080; border-color: #61390A; }
+
+.red-message { border-color: #FF0000; background-color: #FFDDDD; }
+
+.required-asterisk { color: #61390A; }
+
+.grayed-out { color: gray; }
+
+.grayed-out img { filter: grayscale(100%); }
+
+table.grid-table td { border-color: #664433; }
+table.grid-table tr { background-color: #F4F4DF; }
+
+table.simple-table { border-color: #664433; }
+table.simple-table th { border-bottom-color: #664433; color: #664433; }
+table.simple-table tr.even { background-color: #EBE3D8; }
+table.simple-table tr.odd { background-color: #E1D4BF; }
+table.simple-table tr.even>td:first-child { background-color: #E1D6C7; }
+table.simple-table tr.odd>td:first-child { background-color: #D6C8AB; }
+table.simple-table tr.even-unpublished { background-color: #50899B; }
+table.simple-table tr.odd-unpublished { background-color: #5492AD; }
+table.simple-table tr.even-unpublished td:first-child { background-color: #5493B4; }
+table.simple-table tr.odd-unpublished td:first-child { background-color: #589CC3; }
+
+.tile { background-color: #EBE3D8; border-color: #000000; }
+.tile img { border-color: #EBE3D8; }
+.tile a:hover img { background-color: #664433; border-color: #DD6900; }
+.tile-ancestor { background-color: #E1D4BF; }
+.tile-ancestor img { border-color: #E1D4BF; }
+.tile-clipboard { background-color: #F4F4DF; opacity: 0.4; }
+.tile-clipboard img { border-color: #F4F4DF; }
+
+.validation-error { border-color: #FF0000; background-color: #FFDDDD; }
+.validation-error-message { color: #800000; }
+
+.wiki-placeholder
+{
+    background-color: #EBE3D8;
+    border-color: #DD6900;
+}
+
+.wiki-local dl { border-color: #664433; background-color: white; color: black; }
+

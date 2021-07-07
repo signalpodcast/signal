@@ -1,0 +1,144 @@
+body
+{
+    font-size: 75%;
+    margin-top: 0; margin-left: 50px; margin-right: 50px;
+    padding-top: 8px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    font-family: Geneva, sans-serif;
+}
+
+.album-art { padding: 0px; /*border: 2px inset;*/ }
+.auto-size { width:100%; height:auto; }
+
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:active { text-decoration: underline; }
+a:hover { text-decoration: none; }
+
+a.time-simple .time-detail { display: none; }
+a.time-simple:hover { position: relative; }
+a.time-simple:hover .time-detail
+{
+    display:block;
+    position:absolute;
+    top: -2px; left: 60px;
+    width: 450px;
+    background-color: #FFFF80;
+    border: 1px solid black;
+    padding: 2px;
+}
+
+a img { border-width: 0; }
+
+.button-link { margin-left: 3px; margin-right: 3px; border-width: 1px; border-style: outset; padding-left: 3px; padding-right: 3px; }
+
+.copy-zone { font-size: 90%; border: 1px solid; padding-left: 3px; padding-right: 3px; }
+pre.copy-zone { font-size: 130%; }
+h2.copy-zone { font-size: 150%; }
+
+dd > p { margin: 0; border: 0; padding: 0; }
+
+dt { font-weight: bold; margin-top: 0.3em; }
+
+.form-slice { margin-bottom: 1em; }
+
+.go-zone { display: inline; }
+.go-zone * { font-size: 90%; }
+
+.green-message { border: solid 1px; padding: 2px; }
+
+.grid-table h2 { margin-top: 0; }
+
+.grid-table td { margin: 0; border: 0; padding: 0; vertical-align: top; }
+
+.important { border: 1px solid; padding-left: 2px; padding-right: 2px; }
+
+.info { font-style: italic; }
+
+.jump-target>td { border-top: 2px solid; }
+
+.label { font-weight: bold; }
+
+.orange-message { border: solid 1px; padding: 2px; }
+
+.overdue { border: 1px solid; padding-left: 2px; padding-right: 2px; }
+
+.red-message { border: solid 1px; padding: 2px; }
+
+.rss-feeds * { vertical-align:text-top; }
+
+.segment-progress { font-size: 80%; font-style: italic; }
+
+.sidebar
+{
+    float: right;
+    width: 200px;
+    font-size: 90%;
+    text-align: justify;
+    margin-left: 20px;
+}
+
+.topbar
+{
+    font-size: 90%;
+    text-align: justify;
+}
+
+pre
+{
+    white-space:pre-wrap;
+} 
+
+td > p { margin: 0; border: 0; padding: 0; }
+
+table.grid-table { border-spacing: 1px; }
+table.grid-table td { margin-left: 1px; margin-right: 1px; border-width: 1px; border-style: solid; padding: 10px; }
+
+.shownote h3 { margin-top: 0px; margin-bottom: 0px; }
+.shownote h4 { margin-top: 0px; margin-bottom: 0px; font-weight: normal; }
+
+table.simple-table { border: 1px solid; border-spacing: 0px; margin-bottom: 4px; }
+table.simple-table h3 { margin-top: 0px; margin-bottom: 0px; }
+table.simple-table h4 { margin-top: 0px; margin-bottom: 0px; }
+table.simple-table p { margin-top: 4px; margin-bottom: 0px; }
+table.simple-table td 
+{
+    margin-left: 0px; margin-right:0px;
+    border-left: 0px; border-right: 0px;
+    padding-left: 12px; padding-right: 12px; padding-top: 3px; padding-bottom: 3px;
+    vertical-align: top;
+}
+table.simple-table th { border-bottom: 1px solid; padding-left: 3px; padding-right: 3px; }
+
+.tile
+{
+	position: relative; /* So that tile-art and tile-footer can be relative to this */
+	margin: 5px;
+	padding: 2px;
+	width: 150px;
+	height: 200px;
+	text-align: center;
+	border: 1px solid;
+}
+
+.tile img { border-width: 1px; }
+.tile h1 { font-size: 14px; margin-top: 5px; }
+.tile-art { position: absolute; width: 150px; top: 50px; }
+.tile-footer { font-size: smaller; position: absolute; width: 150px; top: 164px; }
+
+.tinyform input,.tinyform select { font-size: 90%; }
+
+.validation-error { border: 1px solid; }
+
+.wiki-placeholder { border: 1px dashed; }
+
+.wiki-local dl { max-width: 40em; font-family: "Courier New", monospace; border: 1px solid; padding-left: 1em; padding-right: 1em; }
+.wiki-local dt { text-transform: uppercase; text-align: center; font-weight: normal; margin-top: 1em; margin-bottom: 0.5em; }
+.wiki-local dd { text-align: center; margin-left: 0; margin-top: 0; margin-bottom: 1em; }
+
+.wiki-local .use-dl dl { max-width: 100%; font-family: Geneva, sans-serif; border: 0; padding: 0; background-color: transparent; }
+.wiki-local .use-dl dt { text-transform: none; text-align: left; font-weight: normal; margin: 0; }
+.wiki-local .use-dl dd { text-align: left; margin-left: 20px; margin-right: 0; margin-top: 0; margin-bottom: 0; }
+
