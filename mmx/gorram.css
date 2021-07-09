@@ -19,6 +19,8 @@ a.time-simple { color: #000000; }
 
 .grayed-out,.greyed-out { color: #908080; }
 
+.grayed-out img { filter: grayscale(100%); }
+
 .important { border-color: #FF0000; background-color: #E1D4BF; }
 
 .info { color: #664433; }
@@ -32,10 +34,6 @@ a.time-simple { color: #000000; }
 .red-message { border-color: #FF0000; background-color: #FFDDDD; }
 
 .required-asterisk { color: #61390A; }
-
-.grayed-out { color: gray; }
-
-.grayed-out img { filter: grayscale(100%); }
 
 table.grid-table td { border-color: #664433; }
 table.grid-table tr { background-color: #F4F4DF; }
